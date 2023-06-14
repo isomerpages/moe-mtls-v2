@@ -7,5 +7,8 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: ABOUT US
-    url: /permalink
+    url: about-us
+    sublinks: []
+  - title: OPENING & AWARD CEREMONY
+    url: opening-award-ceremony
     sublinks: []
