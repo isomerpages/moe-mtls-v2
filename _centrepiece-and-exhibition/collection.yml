@@ -2,4 +2,5 @@ collections:
   centrepiece-and-exhibition:
     output: true
     order:
+      - CURRICULUM BOOTH/INTRODUCTION (PRE EVENT).md
       - CURRICULUM BOOTH/.keep
