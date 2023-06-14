@@ -2,6 +2,7 @@ collections:
   centrepiece-and-exhibition:
     output: true
     order:
+      - COMMUNITY PARTNERS/INTRODUCTION (PRE EVENT).md
       - COMMUNITY PARTNERS/.keep
       - CURRICULUM BOOTH/.keep
       - CURRICULUM BOOTH/INTRODUCTION (PRE EVENT).md
