@@ -2,6 +2,7 @@ collections:
   centrepiece-and-exhibition:
     output: true
     order:
+      - COMMUNITY PARTNERS/POSTER (POST EVENT).md
       - COMMUNITY PARTNERS/.keep
       - COMMUNITY PARTNERS/INTRODUCTION (PRE EVENT).md
       - COMMUNITY PARTNERS/SYNOPSIS (PRE EVENT).md
