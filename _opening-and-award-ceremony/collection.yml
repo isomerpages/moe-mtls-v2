@@ -2,5 +2,7 @@ collections:
   opening-and-award-ceremony:
     output: true
     order:
+      - OPMTL AWARD CEREMONY (POST EVENT) – Pictures and Information of
+        Awardees.md
       - OPENING CEREMONY VIDEO.md
       - INFORMATION ON OPENING AND AWARD CEREMONY.md
