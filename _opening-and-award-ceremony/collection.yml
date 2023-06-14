@@ -1,4 +1,5 @@
 collections:
   opening-and-award-ceremony:
     output: true
-    order: []
+    order:
+      - INFORMATION ON OPENING AND AWARD CEREMONY.md
