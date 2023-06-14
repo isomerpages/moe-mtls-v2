@@ -2,4 +2,5 @@ collections:
   opening-and-award-ceremony:
     output: true
     order:
+      - OPENING CEREMONY VIDEO.md
       - INFORMATION ON OPENING AND AWARD CEREMONY.md
