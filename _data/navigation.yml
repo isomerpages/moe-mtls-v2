@@ -6,12 +6,13 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: OPENING & AWARD CEREMONY
-    url: opening-award-ceremony
-    sublinks: []
-  - title: INFORMATION ON MTLS
-    url: /example-folder/
   - title: ABOUT US
     collection: about-us
-  - title: Menu Title
-    collection: example-folder
+  - title: OPENING & AWARD CEREMONY
+    collection: opening-and-award-ceremony
+  - title: SHARING & WORKSHOPS
+    collection: sharing-and-workshops
+  - title: CENTREPIECE & EXHIBITION
+    collection: centrepiece-and-exhibition
+  - title: FEEDBACK
+    collection: feedback
