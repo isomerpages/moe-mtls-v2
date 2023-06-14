@@ -2,5 +2,6 @@ collections:
   sharing-and-workshops:
     output: true
     order:
+      - SHARING SESSIONS/SYNOPSIS (PRE EVENT).md
       - SHARING SESSIONS/SPEAKER PROFILE (PRE EVENT).md
       - SHARING SESSIONS/.keep
