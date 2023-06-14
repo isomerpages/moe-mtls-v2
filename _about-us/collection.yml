@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - CPCLL, MLLPC, TLLPC & Social Media handlesn QR Codes.md
       - INFORMATION ON MTLS.md
