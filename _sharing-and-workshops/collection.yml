@@ -1,4 +1,5 @@
 collections:
   sharing-and-workshops:
     output: true
-    order: []
+    order:
+      - SHARING SESSIONS/.keep
