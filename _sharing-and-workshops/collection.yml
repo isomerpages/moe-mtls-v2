@@ -2,6 +2,7 @@ collections:
   sharing-and-workshops:
     output: true
     order:
+      - REGISTER NOW/.keep
       - INTERACTIVE WORKSHOPS/.keep
       - INTERACTIVE WORKSHOPS/SPEAKER PROFILE (PRE EVENT).md
       - INTERACTIVE WORKSHOPS/SYNOPSIS (PRE EVENT).md
