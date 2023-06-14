@@ -1,4 +1,5 @@
 collections:
   centrepiece-and-exhibition:
     output: true
-    order: []
+    order:
+      - CURRICULUM BOOTH/.keep
