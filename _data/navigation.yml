@@ -12,6 +12,6 @@ links:
   - title: INFORMATION ON MTLS
     url: /example-folder/
   - title: ABOUT US
-    collection: example-folder
+    collection: about-us
   - title: Menu Title
     collection: example-folder
