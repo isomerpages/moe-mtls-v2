@@ -1,4 +1,5 @@
 collections:
   feedback:
     output: true
-    order: []
+    order:
+      - LINK TO FEEDBACK QR CODE.md
