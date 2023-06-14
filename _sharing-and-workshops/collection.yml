@@ -2,6 +2,8 @@ collections:
   sharing-and-workshops:
     output: true
     order:
+      - REGISTER NOW/DROPDOWN FOR SHARING SESSIONS AND INTERACTIVE WORKSHOPS
+        (ANY TWO)  Googleforms.md
       - REGISTER NOW/.keep
       - INTERACTIVE WORKSHOPS/.keep
       - INTERACTIVE WORKSHOPS/SPEAKER PROFILE (PRE EVENT).md
