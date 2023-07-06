@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MTLS
+title: Mother Tongue Languages Symposium
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
