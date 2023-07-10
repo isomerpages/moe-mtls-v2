@@ -56,82 +56,54 @@ text-decoration:none;
 
 
 
-&nbsp; <h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
+<h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
 
-&nbsp;&nbsp;&nbsp; 
 
-&nbsp; 
+<table style="border-collapse: collapse;width: 100%;"><tbody><tr><td style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br>
 
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; <table style="border-collapse: collapse;
-
-&nbsp; width: 100%;"><tbody><tr><td style="border: none; width: 70%;
-
-&nbsp; text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br>
-
-&nbsp; \[Live Sharing Session from 4.00pm to 5.00pm\]<br>
+[Live Sharing Session from 4.00pm to 5.00pm\]<br>
 
 Ms Rilla Melati Binte Bahri<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Director<br>
+ Director<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mini Monsters Limited
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="border: none;
-
-&nbsp; text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-
-<a href="/ms-rilla-melati" class="btn1" style="color:#fff;">Watch Here</a>
-
-</td></tr>
-
-</tbody></table>
-
-&nbsp;&nbsp;&nbsp; <h4 style="font-family:Lato,sans-serif;"><b>Pre-Recorded Session</b></h4>
-
-
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; <table style="border-collapse: collapse;
-
-&nbsp; width: 100%;"><tbody><tr><td style="border: none; width: 70%;
-
-&nbsp; text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br>
-
-&nbsp; \[Pre-Recorded Sessions\]<br>
-
-Dr Shuhan C. Wang<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ELE Consulting International<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="border: none;
-
-&nbsp; text-align: left;padding: 8px;width: 30%;">
-
-<a href="/dr-shuhan-c-wang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here</a>
-
-</td></tr>
-
-</tbody></table>
-
-&nbsp;&nbsp;&nbsp; <br><br>
-
-&nbsp;&nbsp;&nbsp; <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/1920x720herobannerwlogov3.jpg">
+ Mini Monsters Limited
 
 <br>
 
-<img src="/images/1920x720herobannerwlogov3.jpg" style="float: right; width:30%;">
+ </td><td style="border: none;text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+
+<a style="color:#fff;" class="btn1" href="/ms-rilla-melati">Watch Here</a>
+</td></tr>
+</tbody></table>
+
+
+<h4 style="font-family:Lato,sans-serif;"><b>Pre-Recorded Session</b></h4>
+
+
+<table style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="border: none; width: 70%; text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br>
+
+[Pre-Recorded Sessions\]<br>
+
+Dr Shuhan C. Wang<br>
+	President<br>
+
+ELE Consulting International<br>
+
+</td><td style="border: none;
+
+text-align: left;padding: 8px;width: 30%;">
+
+<a style="color:#fff;font-family:Lato,sans-serif;" class="btn1" href="/dr-shuhan-c-wang">Watch Here</a>
+
+</td></tr>
+
+</tbody></table>
+
+ <br><br>
+
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+<img src="/images/1920x720herobannerwlogov3.jpg">
+
+<br>
+<img style="float: right; width:30%;" src="/images/1920x720herobannerwlogov3.jpg">
