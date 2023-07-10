@@ -61,7 +61,7 @@ text-decoration:none;
 
 <table style="border-collapse: collapse;width: 100%;"><tbody><tr><td style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br>
 
-[Live Sharing Session from 4.00pm to 5.00pm\]<br>
+[Live Sharing Session from 4.00pm to 5.00pm]<br>
 
 Ms Rilla Melati Binte Bahri<br>
 
@@ -73,7 +73,7 @@ Ms Rilla Melati Binte Bahri<br>
 
  </td><td style="border: none;text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
 
-<a style="color:#fff;" class="btn1" href="/ms-rilla-melati">Watch Here</a>
+<a href="/ms-rilla-melati" class="btn1" style="color:#fff;">Watch Here</a>
 </td></tr>
 </tbody></table>
 
@@ -94,7 +94,7 @@ ELE Consulting International<br>
 
 text-align: left;padding: 8px;width: 30%;">
 
-<a style="color:#fff;font-family:Lato,sans-serif;" class="btn1" href="/dr-shuhan-c-wang">Watch Here</a>
+<a href="/dr-shuhan-c-wang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here</a>
 
 </td></tr>
 
@@ -106,4 +106,4 @@ text-align: left;padding: 8px;width: 30%;">
 <img src="/images/1920x720herobannerwlogov3.jpg">
 
 <br>
-<img style="float: right; width:30%;" src="/images/1920x720herobannerwlogov3.jpg">
+<img src="/images/1920x720herobannerwlogov3.jpg" style="float: right; width:30%;">
