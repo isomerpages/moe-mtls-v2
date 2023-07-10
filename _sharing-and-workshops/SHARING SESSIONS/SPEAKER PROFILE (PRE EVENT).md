@@ -4,6 +4,7 @@ permalink: /sharing-and-workshops/sharing-sessions/speaker-profile/
 description: ""
 third_nav_title: SHARING SESSIONS
 ---
+```
 <style>
 
     .btn1{
@@ -133,3 +134,4 @@ Dr Shuhan C. Wang<br>
 <br>
 
 <img src="/images/1920x720herobannerwlogov3.jpg" style="float: right; width:30%;">
+```
