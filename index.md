@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/1920x720hero-bannerv1.jpg
+      background: /images/1920x720herobannerwlogov3.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
