@@ -4,9 +4,6 @@ permalink: /sharing-and-workshops/sharing-sessions/speaker-profile/
 description: ""
 third_nav_title: SHARING SESSIONS
 ---
-
-
-
 <style>
 
     .btn1{
@@ -133,10 +130,8 @@ Dr Shuhan C. Wang<br>
 
 &nbsp;&nbsp;&nbsp; <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Feedback-Slide.jpg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/1920x720herobannerwlogov3.jpg">
 
 <br>
 
-<img src="/images/Explore-MTLS\_Mascot\_Scavenger-V1-03.png" style="float: right; width:30%;">
-
-
+<img src="/images/1920x720herobannerwlogov3.jpg" style="float: right; width:30%;">
