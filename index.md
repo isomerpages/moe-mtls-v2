@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/1920x720herobannerwlogov3.jpg
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
