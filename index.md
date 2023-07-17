@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1920x720herobannerwlogov3.jpg
+      background: /images/MTLS/1920x720-hero-holding-banner-v1.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
