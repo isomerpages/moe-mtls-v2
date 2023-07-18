@@ -8,6 +8,5 @@ notification: ""
 sections:
   - hero:
       background: /images/MTLS/1920x720-hero-holding-banner-v3.gif
-      button: About Us
       url: /
 ---
