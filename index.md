@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MTLS/1920x720-hero-holding-banner-v3.gif
+      background: /images/1920x720-hero-holding-banner-v4b.gif
       url: /
   - infobar: {}
 ---
