@@ -2,6 +2,7 @@ collections:
   sharing-and-workshops:
     output: true
     order:
+      - SHARING SESSIONS/English Videos.md
       - SHARING SESSIONS/.keep
       - SHARING SESSIONS/SPEAKER PROFILE (PRE EVENT).md
       - SHARING SESSIONS/SYNOPSIS (PRE EVENT).md
