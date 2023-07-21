@@ -86,7 +86,7 @@ max-width:100%;
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
 	
 <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-	<p style="margin:10px;font-family: Lato,sans-serif;">
+<p style="margin:10px;font-family: Lato,sans-serif;">
 Isadhora Mohamed merupakan seorang penerbit-pengacara yang mempunyai 25 tahun pengalaman, setelah berkhidmat dengan stesen-stesen radio WARNA 94.2FM dan RIA 89.7FM, Mediacorp Pte Ltd. Beliau juga mendidik para pelajar di sekolah-sekolah nasional dalam bidang penyiaran dan pengacaraan serta mempersiapkan mereka bagi ujian lisan, melalui Akademi Media Singapura. Isadhora juga telah menjadi ahli Majlis Bahasa Melayu (2009 – 2012) dan Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (2016-2020). Isadhora memiliki ijazah sarjana dalam bidang Komunikasi Massa dari Universiti Teknologi Nanyang. Beliau kini menyandang jawatan Penyelia Penyunting di stesen radio Inggeris CNA938, milik bilik berita CNA.</p>
 	
  <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
