@@ -71,7 +71,7 @@ max-width:100%;
   <tbody><tr>   
         <td style="border: none;
   text-align: left;padding: 20px;">
-<a href="/iw-malay-session">Back</a>
+<a href="/malay-session">Back</a>
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
