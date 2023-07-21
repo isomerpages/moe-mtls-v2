@@ -94,7 +94,7 @@ Mr Haniman Boniran is a Senior Manager of the Education department with Mandai W
 Encik Haniman Boniran ialah seorang pengurus kanan bahagian pendidikan di Mandai Wildlife Group (MWG). Minat beliau dalam pendidikan alam berputik semasa bersukarelawan di Taman Haiwan Singapura pada tahun 2001. Selang sedekad beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu serta pengendalian bengkel bahasa Melayu bagi guru prasekolah dan sekolah rendah. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi terbaik bagi memperkukuhkan penggunaan bahasa Melayu dalam kalangan masyarakat muda Melayu /Islam Singapura. Encik Haniman juga i seorang penaksir pembelajaran dewasa yang diiktirafkan oleh Institut Pembelajaran Dewasa (IAL) dan penerima anugerah Skim Pembangunan Bakat Penterjemahan anjuran Kemeterian Perhubungan dan Penerangan (MCI).
 	</p>
 	
-<h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<h4 id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="font-family:Lato,sans-serif;text-align:justify;">
 Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.
 	</p>
