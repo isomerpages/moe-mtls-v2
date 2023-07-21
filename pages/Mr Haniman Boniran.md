@@ -96,9 +96,8 @@ Encik Haniman Boniran ialah seorang pengurus kanan bahagian pendidikan di Mandai
 	
 <h4 id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="font-family:Lato,sans-serif;text-align:justify;">
-Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.
-	</p>
-	<p style="font-family:Lato,sans-serif;text-align:justify;">
+Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.</p>
+<p style="font-family:Lato,sans-serif;text-align:justify;">
 Taman Haiwan Singapura menghasilkan berbagai cerita haiwan yang boleh digunakan untuk mempertingkatkan kemahiran literasi kanak-kanak. Buku tanpa dialog berkenaan tenggiling ialah satu contoh cerita haiwan unik yang dihasilkan untuk tujuan ini.</p>
 <p style="font-family:Lato,sans-serif;text-align:justify;">
 Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperluaskan daya kreativiti kanak-kanak dan sekaligus memperkayakan kosa kata mereka. Para ibu bapa dan guru akan diperlengkapkan dengan panduan akitiviti yang mendorong mereka untuk memperkasakan kanak-kanak prasekolah untuk menjadi pencerita yang berbakat.</p>
