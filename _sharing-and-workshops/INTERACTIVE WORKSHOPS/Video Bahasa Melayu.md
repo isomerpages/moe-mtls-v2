@@ -59,3 +59,17 @@ Poppet's World Pte. Ltd.
 </td>
     </tr>
 </tbody></table>
+<br>
+
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah<br><br>Ms Far'ain Jaafar<br>Yaa Bunayya SG
+            </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+ <a href="/iw-ml-ms-farain-jaafar/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+</td>
+    </tr>
+</tbody></table>
