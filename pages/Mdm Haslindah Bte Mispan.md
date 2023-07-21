@@ -86,7 +86,7 @@ max-width:100%;
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Cakaplah, Jangan Diam!</h4>
 	
 <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-	<p style="margin:10px;font-family: Lato,sans-serif;">
+<p style="margin:10px;font-family: Lato,sans-serif;">
 Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE. &nbsp;Beliau mempunyai 13 tahun pengalaman mengajarkan Bahasa Melayu (BM) di sekolah menengah dan 26 tahun bergiat dalam bidang Kurikulum BM di ibu pejabat MOE. &nbsp;Semasa di MOE, beliau pernah terlibat dalam usaha-usaha menyemak, merancang, membangun dan memantau pelaksanaan kurikulum &nbsp;Bahasa Melayu bagi sekolah-sekolah di Singapura. &nbsp;Beliau juga pernah menerajui kumpulan pembina bahan dalam pembangunan sukatan pelajaran dan bahan pengajaran. &nbsp;Kini, beliau bertugas sebagai Pegawai Projek sambilan bagi menyokong pembinaan dan pelaksanaan sukatan, bahan pengajaran dan latihan guru bagi kumpulan prasekolah.</p>
 	
  <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
