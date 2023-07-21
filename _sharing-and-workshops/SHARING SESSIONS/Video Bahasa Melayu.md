@@ -43,7 +43,7 @@ text-decoration:none;
 </td>
     </tr>
 </tbody></table>
-<p>
+<br><br>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tbody><tr>
@@ -56,4 +56,4 @@ text-decoration:none;
  <a href="/sc-ml-mdm-haslindah-bte-mispan/" class="btn1" style="color:#fff;">Tonton di Sini</a>
 </td>
     </tr>
-</tbody></table></p>
+</tbody></table>
