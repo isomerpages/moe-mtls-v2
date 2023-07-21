@@ -97,6 +97,10 @@ Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She
 
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Talk, Don’t Keep Quiet!</h4>
 
+<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:10px;font-family: Lato,sans-serif;">
+Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal. &nbsp;Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan. &nbsp;Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak. &nbsp;Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
+</p>
 
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
