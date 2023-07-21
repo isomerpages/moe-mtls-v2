@@ -38,7 +38,7 @@ text-decoration:none;
             Mandai Wildlife Group</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/mr-haniman-bonuran" class="btn1" style="color:#fff;">Watch Here</a>
+ <a href="/mr-haniman-boniran/" class="btn1" style="color:#fff;">Watch Here</a>
 </td>
     </tr>
 </tbody></table>
