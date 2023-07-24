@@ -2,5 +2,11 @@ logo: /images/mtlslogo_185x75l.png
 links:
   - title: ABOUT US
     collection: about-us
+  - title: OPENING & AWARD CEREMONY
+    collection: opening-and-award-ceremony
   - title: SHARING & WORKSHOPS
     collection: sharing-and-workshops
+  - title: CENTREPIECE & EXHIBITION
+    collection: centrepiece-and-exhibition
+  - title: FEEDBACK
+    collection: feedback
