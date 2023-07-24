@@ -64,8 +64,7 @@ text-decoration:none;
   <tbody><tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu
-			<br>
-		
+			<br><br>
 Mdm Isadhora Mohamed<br>
      <br></td>
     <td style="border: none;
