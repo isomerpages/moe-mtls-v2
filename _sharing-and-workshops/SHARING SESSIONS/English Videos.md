@@ -29,17 +29,3 @@ text-decoration:none;
     }
 }
 </style>
-
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;"> Storytime with Singapore Zoo<br><br>
-			Mr Haniman Boniran<br>
-            Mandai Wildlife Group</td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/mr-haniman-boniran/" class="btn1" style="color:#fff;">Watch Here</a>
-</td>
-    </tr>
-</tbody></table>
