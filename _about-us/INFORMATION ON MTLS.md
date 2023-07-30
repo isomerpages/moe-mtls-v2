@@ -35,7 +35,7 @@ After ten iterations, MTLS has established its own branding and achieved its int
 <iframe width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen=""></iframe>
 
 
-<img src="/images/Website About Us Banner.png">
+<img src="/images/website about us banner.png">
 
 
 For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
