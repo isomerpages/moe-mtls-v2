@@ -32,8 +32,10 @@ description: ""
 <iframe width="642" height="361" src="https://www.youtube.com/embed/wvuiXKf_bJ4" title="MTLS 2019 Event Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen=""></iframe>
 <br><br>
 <iframe width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen=""></iframe>
-	<br>
-	<br><br><br>
-<img src="/images/Website About Us Banner.png"><br><br>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
-	</p><div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+
+
+<img src="/images/Website About Us Banner.png">
+
+
+For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
+	<p></p><div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
