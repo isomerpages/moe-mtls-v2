@@ -39,4 +39,3 @@ After ten iterations, MTLS has established its own branding and achieved its int
 
 
 For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
-	<p></p><div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
