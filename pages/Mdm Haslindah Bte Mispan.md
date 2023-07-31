@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	 .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +86,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/haslindah_mispan.png" style="width:100%">
+   </div>
 
  <p> <strong>Mdm Haslindah Bte Mispan</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Cakaplah, Jangan Diam!</h4>
@@ -104,4 +114,4 @@ Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam prose
 
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
-Oral language skills are of basic importance in a child’s language acquisition. A child who is able to master these skills will be able to express opinions, thoughts and feelings effectively. This session will provide participants an opportunity to extend their knowledge of basic oral skills and learn about activities and resources that can improve these skills in their children. There will also be an opportunity to discuss the types of assessment that could help educators and parents measure their children’s oral competency</p>
+Oral language skills are of basic importance in a child’s language acquisition. A child who is able to master these skills will be able to express opinions, thoughts and feelings effectively. This session will provide participants an opportunity to extend their knowledge of basic oral skills and learn about activities and resources that can improve these skills in their children. There will also be an opportunity to discuss the types of assessment that could help educators and parents measure their children’s oral competency</p></div>
