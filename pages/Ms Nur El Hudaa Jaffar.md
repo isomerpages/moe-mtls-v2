@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	  .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +86,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/nur_el_hudaa.png" style="width:100%">
+   </div>
 
  <p> <strong>Ms Nur-El-Hudaa Jaffar</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Cipta Cerita Adiwiramu</h4>
@@ -105,4 +115,4 @@ Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dala
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
 Story writing enables children to develop their creativity, language ability and communication skills. In this workshop, participants will create their own stories. Starting with the short story, the presenter will share with participants elements of story building through character, plot and emotions. Participants will get to know a superhero who does not exactly fit the "superhero" mold that we often see in books, movies and television shows. Participants will have the opportunity to give a new ending to the story or draft their own superhero stories.
-</p>
+</p></div>
