@@ -64,6 +64,10 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	 .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +85,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/fa_ain_jaafar.png" style="width:100%">
+   </div>
 
  <p> <strong>Ms Far'ain Jaafar</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah</h4>
@@ -105,4 +114,4 @@ Join Ms Far’ain Jaafar in this captivating session where children and parents 
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
 Join Ms Far’ain Jaafar in this captivating session where children and parents explore the magic of children’s literature! Discover the joy of actively engaging in the Malay language beyond the storybooks through a range of exciting activities. Together, let's nurture a love for the Malay language and create cherished memories through active involvement and shared experiences.
-</p>
+</p></div>
