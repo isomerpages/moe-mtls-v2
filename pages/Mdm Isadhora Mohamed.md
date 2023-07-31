@@ -64,6 +64,12 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	  .tlimg img {
+height:auto;
+max-width:30%;
+}
+	
 </style>
 
 
@@ -81,6 +87,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/isadhora_mohamed.png" style="width:100%">
+   </div>
 
  <p> <strong>Mdm Isadhora Mohamed</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
@@ -104,4 +115,4 @@ A well-known media personality in the Malay Community, Isadhora was a Producer-P
 
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
-Get your children to fall in love with the Malay Language through music, drama and role-play, all within the comfort of your own home! How do we impart this knowledge in a fun manner? Have them enjoy and appreciate the language through daily activities with the family! If you enjoy playing games with your children, then this session is for you. You will be surprised how simple items can conjure so much interest in the learning of Malay Language at home. Best of all, it helps foster great relationships between parent and child. Come join Isadhora’s session!</p>
+Get your children to fall in love with the Malay Language through music, drama and role-play, all within the comfort of your own home! How do we impart this knowledge in a fun manner? Have them enjoy and appreciate the language through daily activities with the family! If you enjoy playing games with your children, then this session is for you. You will be surprised how simple items can conjure so much interest in the learning of Malay Language at home. Best of all, it helps foster great relationships between parent and child. Come join Isadhora’s session!</p></div>
