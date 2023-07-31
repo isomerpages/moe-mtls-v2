@@ -64,6 +64,12 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	 .tlimg img {
+height:auto;
+max-width:30%;
+}
+	
 </style>
 
 
@@ -81,6 +87,7 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
 
  <p> <strong>MUHAMMED SHAHRIL BIN SHAIK ABDULLAH</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif</h4>
