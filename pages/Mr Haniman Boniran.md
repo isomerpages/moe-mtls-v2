@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	  .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +86,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/haniman_2023.png" style="width:100%">
+   </div>
 
  <p> <strong>Mr Haniman Boniran</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sesi bercerita bersama Taman Haiwan Singapura</h4>
@@ -103,4 +113,4 @@ Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperlua
 	
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
-Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.</p>
+Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.</p></div>
