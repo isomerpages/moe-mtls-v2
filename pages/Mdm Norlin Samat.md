@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	 .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +86,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/norlin_samat.png" style="width:100%">
+   </div>
 
  <p> <strong>Mdm Norlin Samat</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bermain dan Belajar Bersama Ally</h4>
@@ -110,4 +120,4 @@ Ayuh, ibu bapa! Sertai Ally dalam salah satu pengembaraannya melalui program ibu
 <p style="margin:10px;font-family: Lato,sans-serif;">
 “Let’s Play and Learn with Ally” is a bilingual programme that aims to build positive MTL learning experiences for young children in a safe and fun environment. It is based on a bilingual board and hardcover book series for pre- and early readers, featuring Ally – a local little girl-cat – as she goes about familiar activities around Singapore.</p><p style="margin:10px;font-family: Lato,sans-serif;">
 Come on, parents! Join Ally on one of her adventures in this parent-child programme. Let’s sing some songs, participate in interactive story reading, engage in hands-on activities and learn new words in English and Malay together with our little ones!
-</p>
+</p></div>
