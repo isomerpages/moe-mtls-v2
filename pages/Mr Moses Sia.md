@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+.tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -82,6 +87,11 @@ max-width:100%;
     </tr>
 </tbody></table><br>
 
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/EL/mr_moses.png" style="width:100%">
+   </div>
+
  <p> <strong>Mr Moses Sia</strong></p>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Active Mother Tongue Learning using Technology</h4>
  <h4 id="C1" style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
@@ -99,4 +109,4 @@ At the end of this workshop, participants will<br>
 - appreciate the need for active learning in enhancing interest in Chinese Language<br>
 - be able to use common in-built features such as dictation<br>
 - experience creating a pdf e-book, a short movie and an interactive game<br>
-Demonstrations and hands-on will be done on the iPad. Participants must bring their own iPads.</p>
+Demonstrations and hands-on will be done on the iPad. Participants must bring their own iPads.</p></div>
