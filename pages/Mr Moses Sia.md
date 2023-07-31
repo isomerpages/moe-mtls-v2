@@ -97,7 +97,7 @@ max-width:30%;
  <h4 id="C1" style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
 
 <p style="margin:10px;font-family: Lato,sans-serif;">
-Word Limit : <br>
+<br>
 Moses is an educator-artist. He has authored and illustrated a number of learning games and picture books. His teaching career started in Singapore over 20 years ago and has since headed &nbsp;schools in Singapore and in Indonesia. In recent years, as an education facilitator at the National Gallery Singapore, Moses conducts tours and has also designed art resources and videos. He is also an active community artist, working with seniors, and an adjunct faculty member at Singapore University of Social Sciences and Singapore Polytechnic.
 </p>
 	
