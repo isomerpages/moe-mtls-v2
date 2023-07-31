@@ -64,6 +64,11 @@ text-decoration:none;
 height:auto;
 max-width:100%;
 }
+	
+	  .tlimg img {
+height:auto;
+max-width:30%;
+}
 </style>
 
 
@@ -81,6 +86,11 @@ max-width:100%;
     </td>
     </tr>
 </tbody></table><br>
+
+ <div class="tlimg">
+  <div class="column">
+<img src="/images/ML/salha_binte_mohamed_hussain.png" style="width:100%">
+   </div>
 
  <p> <strong>Mdm Salha Binte Mohamed Hussain</strong><br></p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Nak dengar cerita?</h4>
@@ -105,4 +115,4 @@ Kebanyakan murid yang mempelajari Bahasa Melayu (BM) di sekolah rendah datang da
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:10px;font-family: Lato,sans-serif;">
 The profile of our Malay Language (ML) pupils in schools has changed over the years. Many pupils come from English Language dominant backgrounds and consequently struggle to learn Malay. The new ML primary curriculum explores the use of stories to enthuse young children to learn and speak the language. Research has shown that storytelling is an effective approach for bringing joy to learning a language. In this sharing session, the speaker will engage the audience in using various storytelling techniques that will enable young children to develop their Malay vocabulary and use Malay more comfortably.
-</p>
+</p></div>
