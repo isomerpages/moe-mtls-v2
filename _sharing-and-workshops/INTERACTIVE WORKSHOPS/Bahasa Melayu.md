@@ -90,3 +90,19 @@ Poppet's World Pte. Ltd.
 </td>
     </tr>
 </tbody></table>
+<br>
+
+
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br><br>
+Muhammed Shahril Bin Shaik Abdullah<br>
+National Library Board</td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+ <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Sinopsis</a>
+</td>
+    </tr>
+</tbody></table>
