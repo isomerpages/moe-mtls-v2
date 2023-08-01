@@ -39,7 +39,7 @@ text-decoration:none;
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/iw-el-mr-moses-sia/" class="btn1" style="color:#fff;">Watch Here</a>
+ <a href="/iw-el-mr-moses-sia/" class="btn1" style="color:#fff;">Synopsis</a>
 </td>
     </tr>
 </tbody></table>
