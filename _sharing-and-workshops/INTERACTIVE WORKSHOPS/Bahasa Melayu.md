@@ -40,7 +40,7 @@ Poppet's World Pte. Ltd.
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/iw-ml-mdm-norlin-samat/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/iw-ml-mdm-norlin-samat/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -55,7 +55,7 @@ Poppet's World Pte. Ltd.
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/iw-ml-ms-nur-el-hudaa-jaffar/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/iw-ml-ms-nur-el-hudaa-jaffar/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -69,7 +69,7 @@ Poppet's World Pte. Ltd.
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/iw-ml-ms-farain-jaafar/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/iw-ml-ms-farain-jaafar/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
