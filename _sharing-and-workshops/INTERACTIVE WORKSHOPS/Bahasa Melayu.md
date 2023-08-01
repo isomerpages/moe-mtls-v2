@@ -30,6 +30,23 @@ text-decoration:none;
 }
 </style>
 
+
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Sesi bercerita bersama Taman Haiwan Singapura<br><br>
+			Mr Haniman Boniran<br>
+            Mandai Wildlife Group</td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+ <a href="/sc-ml-mr-haniman-boniran/" class="btn1" style="color:#fff;">Sinopsis</a>
+</td>
+    </tr>
+</tbody></table>
+<br>
+
+
 <table style="border-collapse: collapse;
   width: 100%;">
   <tbody><tr>
