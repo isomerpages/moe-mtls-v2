@@ -39,7 +39,7 @@ text-decoration:none;
             Mandai Wildlife Group</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-mr-haniman-boniran/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/sc-ml-mr-haniman-boniran/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -53,7 +53,7 @@ text-decoration:none;
       Malay Language Unit, Mother Tongue Languages Branch, MOE</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-mdm-haslindah-bte-mispan/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/sc-ml-mdm-haslindah-bte-mispan/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -69,7 +69,7 @@ Mdm Isadhora Mohamed<br>
      <br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-mdm-isadhora-mohamed/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/sc-ml-mdm-isadhora-mohamed/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -84,7 +84,7 @@ Mdm Salha Binte Mohamed Hussain<br>
 MOE Singapore</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-mdm-salha-binte-mohamed-hussain/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/sc-ml-mdm-salha-binte-mohamed-hussain/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
@@ -99,7 +99,7 @@ MUHAMMED SHAHRIL BIN SHAIK ABDULLAH<br>
 NATIONAL LIBRARY BOARD</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Tonton di Sini</a>
+ <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
