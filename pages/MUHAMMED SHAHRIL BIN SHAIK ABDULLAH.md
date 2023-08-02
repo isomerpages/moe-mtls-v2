@@ -93,26 +93,25 @@ max-width:30%;
 <img src="/images/ML/lr_lkyfb_shahril.png" style="width:100%">
    </div>
 
- <p> <strong>MUHAMMED SHAHRIL BIN SHAIK ABDULLAH</strong><br></p>
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif</h4>
+ <p> <strong>Mr Muhammed Shahril Bin Shaik Abdullah<br>Encik Muhammed Shahril Bin Shaik Abdullah<br>Pustakawan (Bahasa Melayu)<br>Jabatan Perancangan Koleksi dan Pembangunan
+Lembaga Perpustakaan Negara</strong><br></p>
 	
-<h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="font-family: Lato,sans-serif;">
 Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Lembaga Perpustakaan Negara, Singapura (NLB). Beliau mengendalikan beberapa program bacaan untuk kanak-kanak dari umur satu hingga sembilan tahun. Beliau memegang Sarjana Pendidikan dari Universiti Monash (Australia) dalam bidang Kepimpinan, Dasar dan Perubahan. Beliau minat dalam bidang penyelidikan sastera kanak-kanak dan pendidikan kritis. Beberapa karya beliau telah diterbitkan oleh Mediacorp, dan juga majalah _Karyawan_&nbsp;Angkatan Karyawan Islam (AMP).</p>
 	
- <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+ <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<p style="font-family: Lato,sans-serif;">
 Muhammed Shahril Shaik Abdullah is currently a librarian with the National Library Board, Singapore where he oversees reading programmes for children aged 1 to 9. He holds a Master of Education from Monash University (Australia) with a specialisation in Leadership, Policy and Change. His research interests include children's literature and critical education. Some of his writings have been published by MediaCorp, and in the Association of Muslim Professionals (AMP’s) _Karyawan_&nbsp;magazine.
 </p>
 
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Dialogic reading of picture books and interactive storytelling techniques</h4>
-
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+  <h4 style="padding-top:12px;color:#a3c864;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif</h4>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="font-family: Lato,sans-serif;">
 Buku-buku bergambar memainkan peranan yang sangat penting dalam perkembangan intelektual serta sosio-emosi kanak-kanak. Melalui buku-buku bergambar, kanak-kanak bukan hanya dapat mengembangkan kemahiran literasi&nbsp; mereka malah&nbsp; nilai-nilai teras seperti sifat empati serta kesedaran tentang dunia mereka dalam persekitaran yang aman dan selamat. Walau bagaimanapun, semua ini tidak akan dapat dicapai tanpa penglibatan golongan dewasa untuk memudahkan proses tersebut. Sesi ini akan memberi tumpuan kepada pendekatan dialogik terhadap pembacaan buku-buku bergambar dalam meningkatkan perkembangan&nbsp; literasi visual serta pemerolehan bahasa kanak-kanak yang kritikal. Para ibu bapa juga akan dapat mempelajari&nbsp; beberapa teknik bercerita bersifat interaktif yang boleh mereka laksanakan di rumah bersama anak-anak.
 </p>
-
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<h4 style="padding-top:12px;color:#a3c864;">Dialogic reading of picture books and interactive storytelling techniques</h4>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="font-family: Lato,sans-serif;">
 Picture books play a very important role in the intellectual and socio-emotional development of a child. Through picture books, children learn to develop not only literacy skills but also core values such as empathy and an awareness of the social world. These, however, cannot be achieved without involving the adults in facilitating the process. This session will focus on the dialogic approach in using picture books to develop children’s critical visual literacy and language acquisition. Parents will also be able to pick up some of the interactive storytelling techniques which they can then practice with their children at home.</p></div>
