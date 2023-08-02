@@ -69,6 +69,7 @@ max-width:100%;
 height:auto;
 max-width:30%;
 }
+	body { text-align:justify}
 </style>
 
 
