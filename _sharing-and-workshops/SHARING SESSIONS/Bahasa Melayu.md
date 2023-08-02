@@ -29,9 +29,6 @@ text-decoration:none;
     }
 }
 </style>
-
-
-<br>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tbody><tr>
