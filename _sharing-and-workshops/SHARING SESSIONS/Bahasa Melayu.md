@@ -36,9 +36,9 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Cakaplah, Jangan Diam!<br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Cakaplah, Jangan Diam!<br>Let’s Talk, Don’t Keep Quiet! <br><br>
 			Mdm Haslindah Bte Mispan<br>
-      Malay Language Unit, Mother Tongue Languages Branch, MOE</td>
+      Puan Haslindah Bte Mispan</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-mdm-haslindah-bte-mispan/" class="btn1" style="color:#fff;">Sinopsis</a>
