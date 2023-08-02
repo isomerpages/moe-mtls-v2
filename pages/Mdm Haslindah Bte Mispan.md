@@ -92,26 +92,35 @@ max-width:30%;
 <img src="/images/ML/haslindah_mispan.png" style="width:100%">
    </div>
 
- <p> <strong>Mdm Haslindah Bte Mispan</strong><br></p>
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Cakaplah, Jangan Diam!</h4>
+ <p> <strong>Mdm Haslindah Bte Mispan</strong><br>
+<strong>Puan Haslindah Bte Mispan&nbsp;</strong><br>
+<strong>Pegawai Projek </strong><br> 
+<strong>Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE)</strong><br>
+	</p>
 	
-<h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="margin:10px;font-family: Lato,sans-serif;">
-Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE. &nbsp;Beliau mempunyai 13 tahun pengalaman mengajarkan Bahasa Melayu (BM) di sekolah menengah dan 26 tahun bergiat dalam bidang Kurikulum BM di ibu pejabat MOE. &nbsp;Semasa di MOE, beliau pernah terlibat dalam usaha-usaha menyemak, merancang, membangun dan memantau pelaksanaan kurikulum &nbsp;Bahasa Melayu bagi sekolah-sekolah di Singapura. &nbsp;Beliau juga pernah menerajui kumpulan pembina bahan dalam pembangunan sukatan pelajaran dan bahan pengajaran. &nbsp;Kini, beliau bertugas sebagai Pegawai Projek sambilan bagi menyokong pembinaan dan pelaksanaan sukatan, bahan pengajaran dan latihan guru bagi kumpulan prasekolah.</p>
 	
- <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE.  Beliau mempunyai 13 tahun pengalaman mengajarkan Bahasa Melayu (BM) di sekolah menengah dan 26 tahun bergiat dalam bidang Kurikulum BM di ibu pejabat MOE.  Semasa di MOE, beliau pernah terlibat dalam usaha-usaha menyemak, merancang, membangun dan memantau pelaksanaan kurikulum  Bahasa Melayu bagi sekolah-sekolah di Singapura.  Beliau juga pernah menerajui kumpulan pembina bahan dalam pembangunan sukatan pelajaran dan bahan pengajaran.  Kini, beliau bertugas sebagai Pegawai Projek sambilan bagi menyokong pembinaan dan pelaksanaan sukatan, bahan pengajaran dan latihan guru bagi kumpulan prasekolah. 
+ </p><br>
+	
+ <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 
-<p style="margin:10px;font-family: Lato,sans-serif;">
-Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She has more than 13 years of experience in teaching the Malay Language in schools and 26 years of experience in curriculum planning and development in MOE HQ. While in MOE, her work involved planning, reviewing, developing and monitoring the implementation of the Malay Language Curriculum for schools. &nbsp;She led a group of curriculum officers in curriculum work, which included the development of syllabi and instructional materials. Currently, she serves as a part-time Project Officer for the development and implementation of preschool Malay Curriculum, teaching resources and training materials for teachers.
-</p>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She has more than 13 years of experience in teaching the Malay Language in schools and 26 years of experience in curriculum planning and development in MOE HQ. While in MOE, her work involved planning, reviewing, developing and monitoring the implementation of the Malay Language Curriculum for schools.  She led a group of curriculum officers in curriculum work, which included the development of syllabi and instructional materials. Currently, she serves as a part-time Project Officer for the development and implementation of preschool Malay Curriculum, teaching resources and training materials for teachers.
+	</p><br>
 
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Talk, Don’t Keep Quiet!</h4>
 
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
-Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal. &nbsp;Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan. &nbsp;Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak. &nbsp;Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
-</p>
+ <h4 style="padding-top:12px;margin:0px;color:#a3c864;">Cakaplah, Jangan Diam!</h4>
+	
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal.  Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan.  Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak.  Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
+</p><br>
 
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<h4 style="padding-top:12px;margin:0px;color:#a3c864;">Let’s Talk, Don’t Keep Quiet!</h4>
+
+
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Oral language skills are of basic importance in a child’s language acquisition. A child who is able to master these skills will be able to express opinions, thoughts and feelings effectively. This session will provide participants an opportunity to extend their knowledge of basic oral skills and learn about activities and resources that can improve these skills in their children. There will also be an opportunity to discuss the types of assessment that could help educators and parents measure their children’s oral competency</p></div>
