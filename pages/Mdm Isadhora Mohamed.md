@@ -106,7 +106,7 @@ Isadhora Mohamed merupakan seorang penerbit-pengacara yang mempunyai 25 tahun pe
 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 A well-known media personality in the Malay Community, Isadhora was a Producer-Presenter with Mediacorp’s radio stations, WARNA 94.2FM and RIA 89.7FM, for 25 years from 1991 till 2016. She is a highly experienced and effectively bilingual broadcaster who has taught broadcasting and public speaking in Singapore schools through the Singapore Media Academy. She also served as a member of the Malay Language Council (2009-2012) and the Malay Language Learning and Promotion Committee (2016-2020). Isadhora has a Master’s Degree in Mass Communication from the Nanyang Technological University. She is currently the Supervising Editor of CNA938, the radio arm of CNA.
-</p><br><br>
+</p><br>
 
 
   <p></p><h4 style="padding-top:12px;margin:0px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
