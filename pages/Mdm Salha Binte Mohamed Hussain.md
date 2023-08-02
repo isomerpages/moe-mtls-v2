@@ -98,19 +98,19 @@ max-width:30%;
 <h4 id="C1" style="margin:0px;padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Cikgu Salha Mohamed Hussain memulakan perkhidmatan beliau sebagai guru Bahasa Melayu (BM) pada tahun 1989. Beliau mempunyai pengalaman mengajar yang luas di sekolah rendah dan di sekolah menengah. Beliau kini bertugas sebagai Pakar Peneraju di Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE). Beliau terlibat secara langsung dalam pembinaan kurikulum BM yang merangkumi penyediaan bahan-bahan pengajaran dalam bentuk bercetak dan tidak bercetak. Cikgu Salha merupakan seorang penerima Anugerah Guru Arif Budiman (AGAB) pada tahun 2011.
-</p>
+</p><br>
 	
  <h4 id="C1" style="margin:0px;padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Mdm Salha started her teaching career as a Malay Language teacher in 1989. She has gained vast experience teaching in the primary and the secondary schools over the years. Currently, she is a Lead Specialist in the Malay Language Unit, Ministry of Education. She is involved in the development of the ML curriculum, including the building of printed and non-printed teaching resources. Mdm Salha was a recipient of the Arif Budiman Malay Language Teacher's Award in 2011.
-</p>
+</p><br>
 
 <h4 style="margin:0px;padding-top:12px;color:#a3c864;">Nak dengar cerita?</h4>
 <h4 id="C2" style="margin:0px;padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Kebanyakan murid yang mempelajari Bahasa Melayu (BM) di sekolah rendah datang daripada latar yang kurang menggunakan BM sebagai bahasa pertuturan. Hal ini menimbulkan keprihatinan kerana murid-murid ini menghadapi cabaran dalam pembelajaran BM. Kurikulum BM yang baharu sedang meneroka penggunaan cerita untuk menarik minat murid dalam pembelajaran BM. Kajian lepas telah membuktikan bahawa kaedah bercerita memberikan manfaat untuk mewujudkan keseronokan dalam pembelajaran. Melalui sesi perkongsian ini, penyampai akan mengongsikan beberapa teknik bercerita yang berkesan untuk memperkaya kosa kata murid dan membantu mereka untuk menggunakan BM dengan lebih selesa.
-</p>
-<h4 style="padding-top:12px;color:#a3c864;">Want to hear a story?</h4>
+</p><br>
+<h4 style="margin:0px;padding-top:12px;color:#a3c864;">Want to hear a story?</h4>
 <h4 id="C2" style="margin:0px;padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 The profile of our Malay Language (ML) pupils in schools has changed over the years. Many pupils come from English Language dominant backgrounds and consequently struggle to learn Malay. The new ML primary curriculum explores the use of stories to enthuse young children to learn and speak the language. Research has shown that storytelling is an effective approach for bringing joy to learning a language. In this sharing session, the speaker will engage the audience in using various storytelling techniques that will enable young children to develop their Malay vocabulary and use Malay more comfortably.
