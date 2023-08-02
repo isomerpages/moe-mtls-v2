@@ -89,7 +89,7 @@ max-width:30%;
 
  <div class="tlimg">
   <div class="column">
-<img src="/images/ML/haslindah_mispan.png" style="width:100%">
+<img src="/images/ML/repeated_nur fitri_nlb.png" style="width:100%">
    </div>
 
  <p> <strong>Nur Fitri Binte Muhammad Syafran</strong><br></p>
