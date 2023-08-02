@@ -82,8 +82,8 @@ Mdm Salha Binte Mohamed Hussain<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Memupuk Minat Membaca Dalam Kalangan Anak-anak Kita<br>Instilling The Love for Reading Among Our Children Memupuk Minat Membaca Dalam Kalangan Anak-anak Kita <br><br>Puan Nur Fitri Binte Muhammad Syafran&nbsp;<br>Mdm Nur Fitri Binte Muhammad Syafran<br>
-National Library Board</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Memupuk Minat Membaca Dalam Kalangan Anak-anak Kita<br>Instilling The Love for Reading Among Our Children<br><br>Puan Nur Fitri Binte Muhammad Syafran&nbsp;<br>Mdm Nur Fitri Binte Muhammad Syafran<br>
+</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-nur-fitri-binte-muhammad-syafran/" class="btn1" style="color:#fff;">Sinopsis</a>
