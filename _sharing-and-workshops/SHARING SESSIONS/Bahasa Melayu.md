@@ -86,7 +86,7 @@ MOE Singapore</td>
 National Library Board</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Sinopsis</a>
+ <a href="/sc-ml-nur-fitri-binte-muhammad-syafran/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
