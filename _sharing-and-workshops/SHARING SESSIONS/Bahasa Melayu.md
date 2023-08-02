@@ -82,9 +82,8 @@ MOE Singapore</td>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br><br>
-MUHAMMED SHAHRIL BIN SHAIK ABDULLAH<br>
-NATIONAL LIBRARY BOARD</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Memupuk Minat Membaca Dalam Kalangan Anak-anak Kita<br><br> Nur Fitri Binte Muhammad Syafran<br>
+National Library Board</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Sinopsis</a>
