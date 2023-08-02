@@ -93,8 +93,10 @@ max-width:30%;
 <img src="/images/ML/isadhora_mohamed.png" style="width:100%">
    </div>
 
- <p> <strong>Mdm Isadhora Mohamed</strong><br></p>
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
+ <p> <strong>Mdm Isadhora Mohamed Puan Isadhora Mohamed&nbsp;</strong><br></p>
+	<p> <strong> Puan Isadhora Mohamed&nbsp;</strong><br>
+		
+  </p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
 	
 <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:10px;font-family: Lato,sans-serif;">
