@@ -52,9 +52,8 @@ Mr Haniman Boniran<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mari Bermain dan Belajar Bersama Ally<br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mari Bermain dan Belajar Bersama Ally<br>Let’s Play and Learn with Ally<br><br>Puan Norlin Samat<br>
 Mdm Norlin Samat<br>
-Poppet's World Pte. Ltd.
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -68,7 +67,7 @@ Poppet's World Pte. Ltd.
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Cipta Cerita Adiwiramu<br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Cipta Cerita Adiwiramu<br>Create Your Superhero<br><br>Cik Nur-El-Hudaa Jaffar<br>
  Ms Nur-El-Hudaa Jaffar<br>
             </td>
     <td style="border: none;
@@ -83,7 +82,7 @@ Poppet's World Pte. Ltd.
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah<br><br>Ms Far'ain Jaafar<br>Yaa Bunayya SG
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah<br>Beyond reading aloud: fun activities to do at home through Malay language books&nbsp;<br><br>Cik Far'ain Jaafar<br>Ms Far'ain Jaafar<br>
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -98,9 +97,9 @@ Poppet's World Pte. Ltd.
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br>Dialogic reading of picture books and interactive storytelling techniques<br><br>Encik Muhammed Shahril Bin Shaik Abdullah<br>
 Muhammed Shahril Bin Shaik Abdullah<br>
-National Library Board</td>
+</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-muhammed-shahril-bin-shaik-abdullah/" class="btn1" style="color:#fff;">Sinopsis</a>
