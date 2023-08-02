@@ -29,3 +29,17 @@ text-decoration:none;
     }
 }
 </style>
+
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">The Wonders of Learning MTL on SLS<br><br>
+			 Ms Lim Hwee Chen<br>
+Mr Mohan Suppiah<br>
+            </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+ <a href="//" class="btn1" style="color:#fff;">Synopsis</a>
+</td>
+    </tr></tbody></table>
