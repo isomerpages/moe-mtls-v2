@@ -35,9 +35,10 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Sesi bercerita bersama Taman Haiwan Singapura<br><br>
-			Mr Haniman Boniran<br>
-            Mandai Wildlife Group</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Sesi bercerita bersama Taman Haiwan Singapura<br>Storytime with Singapore Zoo <br><br>
+Encik Haniman Boniran&nbsp;<br>
+Mr Haniman Boniran<br>
+</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-mr-haniman-boniran/" class="btn1" style="color:#fff;">Sinopsis</a>
