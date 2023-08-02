@@ -93,28 +93,31 @@ max-width:30%;
 <img src="/images/ML/isadhora_mohamed.png" style="width:100%">
    </div>
 
- <p> <strong>Mdm Isadhora Mohamed Puan Isadhora Mohamed&nbsp;</strong><br></p>
-	<p> <strong> Puan Isadhora Mohamed&nbsp;</strong><br>
-		
-  </p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
-	
-<h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="margin:10px;font-family: Lato,sans-serif;">
-Isadhora Mohamed merupakan seorang penerbit-pengacara yang mempunyai 25 tahun pengalaman, setelah berkhidmat dengan stesen-stesen radio WARNA 94.2FM dan RIA 89.7FM, Mediacorp Pte Ltd. Beliau juga mendidik para pelajar di sekolah-sekolah nasional dalam bidang penyiaran dan pengacaraan serta mempersiapkan mereka bagi ujian lisan, melalui Akademi Media Singapura. Isadhora juga telah menjadi ahli Majlis Bahasa Melayu (2009 – 2012) dan Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (2016-2020). Isadhora memiliki ijazah sarjana dalam bidang Komunikasi Massa dari Universiti Teknologi Nanyang. Beliau kini menyandang jawatan Penyelia Penyunting di stesen radio Inggeris CNA938, milik bilik berita CNA.</p>
-	
- <h4 id="C1" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+ <p><strong> Mdm Isadhora Mohamed</strong><br><strong> Puan Isadhora Mohamed</strong><br>
+<strong>Pegawai Projek </strong><br>
+<strong>Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE) </strong>
 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+	
+</p><h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+Isadhora Mohamed merupakan seorang penerbit-pengacara yang mempunyai 25 tahun pengalaman, setelah berkhidmat dengan stesen-stesen radio WARNA 94.2FM dan RIA 89.7FM, Mediacorp Pte Ltd. Beliau juga mendidik para pelajar di sekolah-sekolah nasional dalam bidang penyiaran dan pengacaraan serta mempersiapkan mereka bagi ujian lisan, melalui Akademi Media Singapura. Isadhora juga telah menjadi ahli Majlis Bahasa Melayu (2009 – 2012) dan Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (2016-2020). Isadhora memiliki ijazah sarjana dalam bidang Komunikasi Massa dari Universiti Teknologi Nanyang. Beliau kini menyandang jawatan Penyelia Penyunting di stesen radio Inggeris CNA938, milik bilik berita CNA.</p><br>
+	
+ <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 A well-known media personality in the Malay Community, Isadhora was a Producer-Presenter with Mediacorp’s radio stations, WARNA 94.2FM and RIA 89.7FM, for 25 years from 1991 till 2016. She is a highly experienced and effectively bilingual broadcaster who has taught broadcasting and public speaking in Singapore schools through the Singapore Media Academy. She also served as a member of the Malay Language Council (2009-2012) and the Malay Language Learning and Promotion Committee (2016-2020). Isadhora has a Master’s Degree in Mass Communication from the Nanyang Technological University. She is currently the Supervising Editor of CNA938, the radio arm of CNA.
-</p>
+</p><br><br>
 
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Develop a conducive environment to instil love for the Malay Language</h4>
 
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+  <p></p><h4 style="padding-top:12px;margin:0px;color:#a3c864;">Mewujudkan persekitaran yang kondusif untuk menyemai kecintaan terhadap bahasa Melayu</h4>
+	
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 	Anak-anak kita boleh jatuh cinta dengan bahasa Melayu melalui muzik, drama dan lakonan, tanpa perlu keluar rumah. Bagaimanakah caranya kita boleh berkongsi ilmu dengan cara yang menarik? Beri mereka peluang untuk menikmati&nbsp;proses pembelajaran ini melalui aktiviti seharian bersama keluarga dengan menggunakan apa yang ada. Jika anda suka bermain bersama anak-anak, sesi ini untuk anda. Yang paling menarik, anda bukan sahaja dapat memupuk rasa cinta terhadap bahasa Melayu dalam diri anak-anak anda, hubungan ibu bapa dan anak-anak juga dapat diperkukuhkan. Ayuh, temui Isadhora dalam sesi perkongsiannya!
-</p>
+</p><br>
 
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<h4 style="padding-top:12px;margin:0px;color:#a3c864;">Develop a conducive environment to instil love for the Malay Language</h4>
+
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Get your children to fall in love with the Malay Language through music, drama and role-play, all within the comfort of your own home! How do we impart this knowledge in a fun manner? Have them enjoy and appreciate the language through daily activities with the family! If you enjoy playing games with your children, then this session is for you. You will be surprised how simple items can conjure so much interest in the learning of Malay Language at home. Best of all, it helps foster great relationships between parent and child. Come join Isadhora’s session!</p></div>
