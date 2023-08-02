@@ -40,6 +40,6 @@ Mr Mohan Suppiah<br>
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="//" class="btn1" style="color:#fff;">Synopsis</a>
+ <a href="/sc-ms-lim-hwee-chen-mr-mohan-suppiah/" class="btn1" style="color:#fff;">Synopsis</a>
 </td>
     </tr></tbody></table>
