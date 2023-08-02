@@ -93,7 +93,7 @@ max-width:30%;
    </div>
 
  <p> <strong>Mr Moses Sia</strong></p>
-  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Active Mother Tongue Learning using Technology</h4>
+  <h4 style="padding-top:12px;color:#fa0;">Active Mother Tongue Learning using Technology</h4>
  <h4 id="C1" style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
 
 <p style="margin:10px;font-family: Lato,sans-serif;">
