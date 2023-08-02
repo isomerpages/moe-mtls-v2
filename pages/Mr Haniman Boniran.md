@@ -94,13 +94,13 @@ max-width:30%;
 
  <p> <strong>Mr Haniman Boniran<br>Encik Haniman Boniran<br>Pengurus kanan bahagian pendidikan<br>Mandai Wildlife Group (MWG)</strong><br></p>
 	
- <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
-
-<p style="font-family: Lato,sans-serif;">
-Mr Haniman Boniran is a Senior Manager of the Education department with Mandai Wildlife Group (MWG). &nbsp;His involvement in environmental education began as a school volunteer at the Singapore Zoo in 2001. &nbsp;Over the last decade, he has diversified to include early childhood education, language-based education and teacher training as part of the authentic learning experiences offered at Mandai. Partnering with schools and language-based practitioners, he conducts workshops, co-creates resources and organises in-park educational programmes for teachers and students. Mr Haniman is a certified IAL adult educator and a recipient of the Translation Talent Development Scheme (TTDS) offered by the Ministry of Communications and Information (MCI).</p>
+<h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="font-family: Lato,sans-serif;">
 Encik Haniman Boniran ialah seorang pengurus kanan bahagian pendidikan di Mandai Wildlife Group (MWG). Minat beliau dalam pendidikan alam berputik semasa bersukarelawan di Taman Haiwan Singapura pada tahun 2001. Selang sedekad beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu serta pengendalian bengkel bahasa Melayu bagi guru prasekolah dan sekolah rendah. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi terbaik bagi memperkukuhkan penggunaan bahasa Melayu dalam kalangan masyarakat muda Melayu /Islam Singapura. Encik Haniman juga i seorang penaksir pembelajaran dewasa yang diiktirafkan oleh Institut Pembelajaran Dewasa (IAL) dan penerima anugerah Skim Pembangunan Bakat Penterjemahan anjuran Kemeterian Perhubungan dan Penerangan (MCI).
 </p>
+	 <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+<p style="font-family: Lato,sans-serif;">
+Mr Haniman Boniran is a Senior Manager of the Education department with Mandai Wildlife Group (MWG). &nbsp;His involvement in environmental education began as a school volunteer at the Singapore Zoo in 2001. &nbsp;Over the last decade, he has diversified to include early childhood education, language-based education and teacher training as part of the authentic learning experiences offered at Mandai. Partnering with schools and language-based practitioners, he conducts workshops, co-creates resources and organises in-park educational programmes for teachers and students. Mr Haniman is a certified IAL adult educator and a recipient of the Translation Talent Development Scheme (TTDS) offered by the Ministry of Communications and Information (MCI).</p>
 
   <h4 style="padding-top:12px;color:#a3c864;">Sesi bercerita bersama Taman Haiwan Singapura</h4>
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
