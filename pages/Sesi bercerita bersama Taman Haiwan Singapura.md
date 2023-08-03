@@ -93,7 +93,7 @@ max-width:30%;
 <img src="/images/ML/haniman_2023.png" style="width:100%">
    </div>
 
- <p> <strong>Mr Haniman Boniran<br>Encik Haniman Boniran<br>Pengurus kanan bahagian pendidikan<br>Mandai Wildlife Group (MWG)</strong><br></p>
+ <p> <strong>Mr Haniman Boniran<br>Encik Haniman Boniran<br>Pengurus kanan bahagian pendidikan<br>Mandai Wildlife Group (MWG)</strong><br></p><br>
 	
 <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
@@ -110,7 +110,7 @@ Mr Haniman Boniran is a Senior Manager of the Education department with Mandai W
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Taman Haiwan Singapura menghasilkan berbagai cerita haiwan yang boleh digunakan untuk mempertingkatkan kemahiran literasi kanak-kanak. Buku tanpa dialog berkenaan tenggiling ialah satu contoh cerita haiwan unik yang dihasilkan untuk tujuan ini.&nbsp;
 Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperluaskan daya kreativiti kanak-kanak dan sekaligus memperkayakan kosa kata mereka. Para ibu bapa dan guru akan diperlengkapkan dengan panduan akitiviti yang mendorong mereka untuk memperkasakan kanak-kanak prasekolah untuk menjadi pencerita yang berbakat.
-</p><br>
+</p><br><br>
 
 	
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
