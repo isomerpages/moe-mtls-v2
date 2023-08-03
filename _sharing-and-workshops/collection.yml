@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - SHARING SESSIONS/.keep
-      - SHARING SESSIONS/English.md
       - SHARING SESSIONS/华文.md
       - SHARING SESSIONS/Bahasa Melayu.md
       - SHARING SESSIONS/தமிழ்.md
+      - SHARING SESSIONS/English.md
       - INTERACTIVE WORKSHOPS/.keep
       - INTERACTIVE WORKSHOPS/English.md
       - INTERACTIVE WORKSHOPS/华文.md
