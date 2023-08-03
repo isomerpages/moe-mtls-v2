@@ -69,7 +69,7 @@ max-width:100%;
 height:auto;
 max-width:30%;
 }
-	body { text-align:justify}
+
 </style>
 
 
@@ -94,15 +94,17 @@ max-width:30%;
    </div>
 
  <p> <strong>Mr Moses Sia<br>Educator-Artist<br>Pauseability</strong></p>
- <h4 id="C1" style="padding-top:12px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
+	
+ <h4 id="C1" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
 
-<p style="font-family: Lato,sans-serif;">
-<br>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Moses is an educator-artist. He has authored and illustrated a number of learning games and picture books. His teaching career started in Singapore over 20 years ago and has since headed &nbsp;schools in Singapore and in Indonesia. In recent years, as an education facilitator at the National Gallery Singapore, Moses conducts tours and has also designed art resources and videos. He is also an active community artist, working with seniors, and an adjunct faculty member at Singapore University of Social Sciences and Singapore Polytechnic.
-</p>
-  <h4 style="padding-top:12px;color:#fa0;">Active Mother Tongue Learning using Technology</h4>
-<h4 id="C2" style="padding-top:12px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="font-family: Lato,sans-serif;">
+</p><br><br>
+	
+
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+
 Do you know that your mobile devices can be a useful tool in the learning of a mother tongue? Discover effective uses of iPads for active learning through this hands-on workshop.</p>
 <p style="font-family: Lato,sans-serif;">
 At the end of this workshop, participants will<br>
