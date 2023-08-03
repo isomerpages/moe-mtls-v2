@@ -90,18 +90,14 @@ max-width:30%;
 <table>
 		<tbody><tr>
 		<td>
-		<img src="/images/CL/4_foo_shiaw_yien.png" style="width:100%"> 
+		<img src="/images/EL/ms_lim hwee chen.png" style="width:100%"> 
 		</td>
 		<td>
-		<img src="/images/CL/4_drew_su.png" style="width:100%">
+		<img src="/images/EL/mr_mohan suppiah.png" style="width:100%">
 		</td>
 		</tr>
 </tbody></table>
 
- <div class="tlimg">
-  <div class="column">
-<img src="/images/" style="width:100%">
-   </div>
 
  <p> <strong>Ms Lim Hwee Chen<strong><br>
 	 Senior Curriculum Planning Officer<br><strong>Mr Mohan Suppiah<strong>
@@ -118,4 +114,4 @@ The MTLB EdTech Working Group (ETWG) is a team of curriculum officers in the Mot
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify;">
 “Mum, I want to log in to SLS!” “Dad, look at what I accomplished in SLS!” 
 You might have heard your child mention the above and seen him/her engaging in learning on laptops/tablets. <br>
-<br>SLS, or Student Learning Space, is one of MOE’s key initiatives to transform the learning experiences of students, to engage them in self-directed and collaborative learning, and to help them experience greater joy in learning. In this session, parents will have a hands-on experience to explore the exciting resources and tools on SLS, and be better equipped to support and extend their child’s learning of MTL.</p></strong></strong></strong></div>
+<br>SLS, or Student Learning Space, is one of MOE’s key initiatives to transform the learning experiences of students, to engage them in self-directed and collaborative learning, and to help them experience greater joy in learning. In this session, parents will have a hands-on experience to explore the exciting resources and tools on SLS, and be better equipped to support and extend their child’s learning of MTL.</p></strong></strong></strong>
