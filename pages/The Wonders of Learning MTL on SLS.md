@@ -100,7 +100,7 @@ max-width:30%;
 
 
  <p> <strong>Ms Lim Hwee Chen<strong><br>
-	 Senior Curriculum Planning Officer<br><strong>Mr Mohan Suppiah<strong>
+	 Senior Curriculum Planning Officer<br><br><strong>Mr Mohan Suppiah<strong>
 	 <br>Assistant Director, Tamil Language </strong></strong></strong></strong></p><strong><strong><strong>
 
  <h4 id="C1" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
