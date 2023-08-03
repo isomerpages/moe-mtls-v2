@@ -104,8 +104,7 @@ Moses is an educator-artist. He has authored and illustrated a number of learnin
 
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Do you know that your mobile devices can be a useful tool in the learning of a mother tongue? Discover effective uses of iPads for active learning through this hands-on workshop.</p>
-<p style="font-family: Lato,sans-serif;text-align: justify">
+Do you know that your mobile devices can be a useful tool in the learning of a mother tongue? Discover effective uses of iPads for active learning through this hands-on workshop. <br>
 At the end of this workshop, participants will<br>
 - appreciate the need for active learning in enhancing interest in Chinese Language<br>
 - be able to use common in-built features such as dictation<br>
