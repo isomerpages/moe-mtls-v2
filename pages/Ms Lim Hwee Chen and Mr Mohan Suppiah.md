@@ -92,18 +92,19 @@ max-width:30%;
 <img src="/images/" style="width:100%">
    </div>
 
- <p> <strong>Ms Lim Hwee Chen</strong><br><strong>Mr Mohan Suppiah</strong></p>
-  <h4 style="padding-top:12px;margin:10px;color:#fa0;">The Wonders of Learning MTL on SLS</h4>
- <h4 id="C1" style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
+ <p> <strong>Ms Lim Hwee Chen<strong><br>
+	 Senior Curriculum Planning Officer<br><strong>Mr Mohan Suppiah<strong>
+	 <br>Assistant Director, Tamil Language [AD/TL]</strong></strong></strong></strong></p><strong><strong><strong>
+  <h4 style="padding-top:12px;margin:0px;color:#fa0;">The Wonders of Learning MTL on SLS</h4>
+ <h4 id="C1" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justfy;text-align: justify">
 <br>
 The MTLB EdTech Working Group (ETWG) is a team of curriculum officers in the Mother Tongue Languages Branch (MTLB). ETWG develops curriculum-aligned digital resources to support teachers and students in the learning of Mother Tongue Languages (MTL). The team also stays abreast with emerging technology and leverages tech tools/AI to customise and create meaningful learning experiences that cater to diverse learning needs. 
 </p>
 	
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="margin:10px;font-family: Lato,sans-serif;">
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify;">
 “Mum, I want to log in to SLS!” “Dad, look at what I accomplished in SLS!” 
-You might have heard your child mention the above and seen him/her engaging in learning on laptops/tablets. 
-
-SLS, or Student Learning Space, is one of MOE’s key initiatives to transform the learning experiences of students, to engage them in self-directed and collaborative learning, and to help them experience greater joy in learning. In this session, parents will have a hands-on experience to explore the exciting resources and tools on SLS, and be better equipped to support and extend their child’s learning of MTL.</p></div>
+You might have heard your child mention the above and seen him/her engaging in learning on laptops/tablets. <br>
+<br>SLS, or Student Learning Space, is one of MOE’s key initiatives to transform the learning experiences of students, to engage them in self-directed and collaborative learning, and to help them experience greater joy in learning. In this session, parents will have a hands-on experience to explore the exciting resources and tools on SLS, and be better equipped to support and extend their child’s learning of MTL.</p></strong></strong></strong></div>
