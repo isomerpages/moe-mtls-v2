@@ -108,17 +108,13 @@ Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE.
 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She has more than 13 years of experience in teaching the Malay Language in schools and 26 years of experience in curriculum planning and development in MOE HQ. While in MOE, her work involved planning, reviewing, developing and monitoring the implementation of the Malay Language Curriculum for schools.  She led a group of curriculum officers in curriculum work, which included the development of syllabi and instructional materials. Currently, she serves as a part-time Project Officer for the development and implementation of preschool Malay Curriculum, teaching resources and training materials for teachers.
-	</p><br>
+	</p><br><br>
 
 
- <h4 style="padding-top:12px;margin:0px;color:#a3c864;">Cakaplah, Jangan Diam!</h4>
-	
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal.  Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan.  Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak.  Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
 </p><br>
-
-<h4 style="padding-top:12px;margin:0px;color:#a3c864;">Let’s Talk, Don’t Keep Quiet!</h4>
 
 
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
