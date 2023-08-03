@@ -87,6 +87,17 @@ max-width:30%;
     </tr>
 </tbody></table><br>
 
+<table>
+		<tbody><tr>
+		<td>
+		<img src="/images/CL/4_foo_shiaw_yien.png" style="width:100%"> 
+		</td>
+		<td>
+		<img src="/images/CL/4_drew_su.png" style="width:100%">
+		</td>
+		</tr>
+</tbody></table>
+
  <div class="tlimg">
   <div class="column">
 <img src="/images/" style="width:100%">
