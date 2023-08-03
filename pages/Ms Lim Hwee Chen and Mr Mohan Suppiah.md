@@ -102,14 +102,15 @@ max-width:30%;
  <p> <strong>Ms Lim Hwee Chen<strong><br>
 	 Senior Curriculum Planning Officer<br><strong>Mr Mohan Suppiah<strong>
 	 <br>Assistant Director, Tamil Language </strong></strong></strong></strong></p><strong><strong><strong>
-  <h4 style="padding-top:12px;margin:0px;color:#fa0;">The Wonders of Learning MTL on SLS</h4>
+
  <h4 id="C1" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justfy;text-align: justify">
 <br>
 The MTLB EdTech Working Group (ETWG) is a team of curriculum officers in the Mother Tongue Languages Branch (MTLB). ETWG develops curriculum-aligned digital resources to support teachers and students in the learning of Mother Tongue Languages (MTL). The team also stays abreast with emerging technology and leverages tech tools/AI to customise and create meaningful learning experiences that cater to diverse learning needs. 
-</p>
+</p><br><br>
 	
+ <h4 style="padding-top:12px;margin:0px;color:#fa0;">The Wonders of Learning MTL on SLS</h4>	
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify;">
 “Mum, I want to log in to SLS!” “Dad, look at what I accomplished in SLS!” 
