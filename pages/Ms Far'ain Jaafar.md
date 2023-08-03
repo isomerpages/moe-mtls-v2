@@ -68,7 +68,7 @@ max-width:100%;
 height:auto;
 max-width:30%;
 }
-	body { text-align:justify}
+
 </style>
 
 
@@ -92,25 +92,27 @@ max-width:30%;
 <img src="/images/ML/fa_ain_jaafar.png" style="width:100%">
    </div>
 
- <p> <strong>Ms Far'ain Jaafar<br>Cik Far'ain Jaafar<br>Pustakawan (Bahasa Melayu)<br>Lembaga Perpustakaan Negara </strong><br></p>
+ <p> <strong>Ms Far'ain Jaafar<br>Cik Far'ain Jaafar<br>Pustakawan (Bahasa Melayu)<br>Lembaga Perpustakaan Negara </strong><br></p><br>
 	
-<h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Far'ain Jaafar ialah ketua pendidik dengan Yaa Bunayya SG dan seorang penulis. Dia mempunyai minat yang mendalam untuk membaca serta menulis buku. Perpustakaan dan kedai buku merupakan antara tempat kegemarannya. Far’ain memiliki ijazah sarjana dalam bidang pendidikan dan merupakan seorang pendidik selama lebih 15 tahun.
-</p>
+</p><br>
 	
- <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Far'ain Jaafar is an educational leader with Yaa Bunayya SG and a published author. She enjoys reading books as much as writing stories. Libraries and bookstores are some of her favourite&nbsp;places. Far’ain holds a master’s degree in education and has been an educator for more than 15 years.
 </p>
+<br><br><br>
 
-  <h4 style="padding-top:12px;color:#a3c864;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah</h4>
-<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Join Ms Far’ain Jaafar in this captivating session where children and parents explore the magic of children’s literature! Discover the joy of actively engaging in the Malay language beyond storybooks through a range of exciting activities. Together, let's nurture a love for the Malay language and create cherished memories through active involvement and shared experiences.
-</p>
-<h4 style="padding-top:12px;color:#a3c864;">Beyond reading aloud: fun activities to do at home through Malay language books</h4>
-<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="font-family: Lato,sans-serif;">
+</p><br>
+	
+
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Join Ms Far’ain Jaafar in this captivating session where children and parents explore the magic of children’s literature! Discover the joy of actively engaging in the Malay language beyond the storybooks through a range of exciting activities. Together, let's nurture a love for the Malay language and create cherished memories through active involvement and shared experiences.
 </p></div>
