@@ -69,7 +69,6 @@ max-width:100%;
 height:auto;
 max-width:30%;
 }
-	body { text-align:justify}
 </style>
 
 
@@ -93,23 +92,19 @@ max-width:30%;
  <p> <strong>Mrs Karunanithi Nambikairose Kavitha</strong><br>
  <strong>திருமதி. கருணாநிதி நம்பிக்கைரோஸ் கவிதா<br>கதைஞர் <br>தன்னுரிமைத் தொழிலர்</strong><br></p>
 	
-<h4 id="C1" style="padding-top:12px;color:#9b4490;font-family:Lato,sans-serif;">தன்விவரம்</h4>
-
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:24px;margin:0px;color:#d84178;font-family:Lato,sans-serif;">தன்விவரம்</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 திருமதி கவிதா, தமிழகத்தின் கரூர் மாவட்டத்தைப் பூர்வீகமாகக் கொண்டவர்.&nbsp;கணினி பயன்பாட்டுத் துறையில் முதுகலைப் பட்டம் பெற்றுச் சென்னையில் விரிவுரையாளராகவும் தகவல் தொழில்நுட்ப&nbsp;வல்லுநராகவும்&nbsp;பணியாற்றியுள்ளார். தம் குடும்பத்துடன்&nbsp;16 ஆண்டுகளாகச் சிங்கப்பூரில் வசித்துவரும் இவர்&nbsp;கடந்த 11 ஆண்டுகள்&nbsp;சொத்து முகவராகப்&nbsp;பணியாற்றுகிறார். குழந்தைகளுக்குக் கதைகள் சொல்வது &nbsp;இவருக்கு மிகவும் விருப்பமான ஒன்றாகும். தற்சமயம், 'கவிதா அத்தை' என்னும் செல்லப் பெயரொடு&nbsp;குழந்தைகளின் கதை சொல்லியாக&nbsp;வலம் வருகிறார்.
 </p>
 	
- <h4 id="C1" style="padding-top:12px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:12px;color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Mrs Kavitha is originally from the district of Karur in Tamil Nadu, India. Having completed her postgraduate studies in Computer Applications, Kavitha worked as a lecturer and IT professional in Chennai for six years. Kavitha has been a Property Agent for eleven years and &nbsp;runs a manpower recruitment company. One of her passions is storytelling, and she is known as " Kavitha Athai," the children storyteller. She conducts story-telling sessions fortnightly for young children at Sengkang National Library Board. She adorns herself as one of the characters from the storybook and awes the children by brings the character alive.
 </p>
-  <h4 style="padding-top:12px;color:#9b4490;">கதையோடு விளையாடு</h4>
-<h4 id="C2" style="padding-top:12px;color:#9b4490;font-family:Lato,sans-serif;">சுருக்கவுரை</h4> 
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C2" style="padding-top:24px; color:#d84178;font-family:Lato,sans-serif;">சுருக்கவுர</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
  கதைகள் குழந்தைகளுக்கு அருமையான பொழுதுபோக்கும் குதூகலமான நிகழ்வுமாகும். மேலோட்டமாகப் பார்த்தால், கதைகளிலிருந்து இவை மட்டுமே கிடைப்பதாக நமக்குத் தோன்றும். ஆனால்,&nbsp;கதைகள் மிக வலிமையானவை. அவை குழந்தைகளிடம் கவனிக்கும் ஆற்றல், உரையாடும் ஆற்றல்,&nbsp;கற்பனைத் திறன் தாய்மொழிமீது நாட்டம், மொழி வளம்,&nbsp;உதவும் குணம், பகிரும் பண்பு முதலியவற்றை &nbsp;வளர்ப்பதோடு வாழ்வின் நன்னெறிகளையும் புகட்டி, அவர்களைத் தன்னம்பிக்கை உள்ள மனிதர்களாக மாற்றுவதில் பெரும்பங்கு வகிக்கிறது. குழந்தைப் பருவத்தில் இருந்தே கதை சொல்வதன்மூலம் அவர்களை நல்லறிவும் நற்குணங்களும் நிறைந்த மக்களாக வார்த்தெடுக்க முடியும். மேலும்,&nbsp;அவர்களின் குழந்தைப் பருவத்தை&nbsp;மகிழ்ச்சி நிறைந்த&nbsp;ஒன்றாக&nbsp;மாற்ற முடியும்.&nbsp;வாருங்கள்,&nbsp;கதை சொல்வதன் பயனைத் தெரிந்துகொள்ளுங்கள்.
 </p>
-<h4 style="padding-top:12px;color:#9b4490;">Play with Tamil Stories</h4>	
-<h4 id="C2" style="padding-top:12px;color:#9b4490;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C2" style="padding-top:12px;color:#d84178;font-family:Lato,sans-serif;">Synopsis</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">
 Stories are entertaining and fun-filled. They also provide an alternative to spending time on gadgets. However, the benefits of stories go much further. Stories can have an incredible effect on children’s lives. They foster interaction and emotional bonds among individuals and can play a crucial role in helping children learn their Mother Tongue Language. By engaging with stories, children become more thoughtful and gain a better understanding of others’ emotions. Stories also develop skills such as listening, understanding, creativity, sharing, and learning moral values. Ultimately, stories, when introduced from childhood, contribute to the development of upright and intellectually sound individuals. Let’s explore the benefits of storytelling.</p></div>
