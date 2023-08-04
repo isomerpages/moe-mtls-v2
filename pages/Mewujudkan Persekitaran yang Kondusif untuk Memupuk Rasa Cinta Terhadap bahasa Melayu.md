@@ -95,8 +95,8 @@ max-width:30%;
    </div>
 
  <p><strong> Mdm Isadhora Mohamed</strong><br><strong> Puan Isadhora Mohamed</strong><br>
-<strong>Pegawai Projek </strong><br>
-<strong>Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE) </strong>
+<strong>Penyelia Penyunting CNA938</strong><br>
+<strong>Mediacorp Pte Ltd </strong>
 
 	
 </p><h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
