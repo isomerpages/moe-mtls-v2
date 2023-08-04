@@ -105,11 +105,8 @@ max-width:30%;
 Moses is an educator-artist. He has authored and illustrated a number of learning games and picture books. His teaching career started in Singapore over 20 years ago and has since headed &nbsp;schools in Singapore and in Indonesia. In recent years, as an education facilitator at the National Gallery Singapore, Moses conducts tours and has also designed art resources and videos. He is also an active community artist, working with seniors, and an adjunct faculty member at Singapore University of Social Sciences and Singapore Polytechnic.
 </p>
 
-<h4 id="C2" style="padding-top:24px; color:#d84178;font-family:Lato,sans-serif;">分享会内容简介</h4>  
-<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 
-
-</p><h4 id="C2" style="padding-top:24px; color:#d84178;font-family:Lato,sans-serif;">工作坊内容简介</h4>  
+<p></p><h4 id="C2" style="padding-top:24px; color:#d84178;font-family:Lato,sans-serif;">工作坊内容简介</h4>  
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 您知道您的手机和平板电脑可以成为学习母语的有用工具吗？ 通过这个工作坊，您可发现以 iPad 促进孩子对母语的主动学习的方法。您将<br>
 - 理解积极学习以提高对中文的兴趣的必要性<br>
