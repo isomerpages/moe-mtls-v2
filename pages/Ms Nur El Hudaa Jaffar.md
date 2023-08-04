@@ -69,7 +69,7 @@ max-width:100%;
 height:auto;
 max-width:30%;
 }
-	body { text-align:justify}
+
 </style>
 
 
@@ -96,21 +96,25 @@ max-width:30%;
  <p> <strong>Ms Nur-El-Hudaa Jaffar<br>Cik Nur-El-Hudaa Jaffar<br>Penulis/Perunding editorial</strong><br></p>
 
 	
-<h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="font-family: Lato,sans-serif;">
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Nur-El-Hudaa Jaffar terlibat dalam penerbitan buku kanak-kanak sebagai editor, penterjemah dan penulis. Buku bergambar dwibahasa pertamanya, telah diterbitkan pada 2014. Sejak itu, beliau telah menerbitkan tujuh lagi buku bergambar dan kini sedang menyediakan novel pertamanya untuk pembaca sekolah rendah. Beliau seorang pencerita sukarelawan di Perpustakaan Negara. Beliau telah menjalankan bengkel penulisan kreatif untuk pelajar dan membuat perkongsian mengenai buku bergambar kepada ibu bapa dan guru. Beliau percaya bahawa terdapat keajaiban dalam buku bergambar untuk kanak-kanak dan orang dewasa dan kanak-kanak harus digalakkan untuk berimaginasi dan mencipta cerita mereka sendiri.
-</p>
+</p><br><br>
 	
- <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
-<p style="font-family: Lato,sans-serif;">
+ <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Nur-El-Hudaa Jaffar is involved in children’s books publishing as an editor, translator and writer. Her first bilingual picture book, “Where is My Home?” was published in 2014. Since then, she has published seven more picture books and is currently preparing her first novel for middle-grade readers. She volunteers as a storyteller with the National Library. Nur-El-Hudaa Jaffar has conducted creative writing workshops for students and talks on picture books for parents and teachers. She believes that there is magic in picture books for children and adults and that children should be encouraged to imagine and create their own stories.
-</p>
-  <h4 style="padding-top:12px;color:#a3c864;">Cipta Cerita Adiwiramu</h4>
-<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="font-family: Lato,sans-serif;">
+</p><br><br><br>
+	
+
+
+<h4 id="C2" style="padding-top:12px; margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dalam bahasa dan kemahiran komunikasi. Dalam bengkel ini, peserta akan mendapat peluang mengolah cerita mengikut cita rasa mereka sendiri. Bermula dengan pembentangan sebuah senario, Nur-El-Hudaa Jaffar akan berkongsi dengan para peserta unsur-unsur pembangunan cerita melalui watak, plot dan emosi. Peserta akan mengenali watak adiwira yang tidak serupa acuan “superhero” yang sering kita lihat dalam buku, filem dan rancangan televisyen. Peserta juga akan berpeluang memilih untuk memberi pengakhiran cerita yang baharu atau melakar cerita adiwira mereka sendiri.
 </p>
-<h4 style="padding-top:12px;color:#a3c864;">Create Your Superhero</h4>
+
+	
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="font-family: Lato,sans-serif;">
 Story writing enables children to develop their creativity, language ability and communication skills. In this workshop, participants will create their own stories. Starting with the short story, the presenter will share with participants elements of story building through character, plot and emotions. Participants will get to know a superhero who does not exactly fit the "superhero" mold that we often see in books, movies and television shows. Participants will have the opportunity to give a new ending to the story or draft their own superhero stories.
