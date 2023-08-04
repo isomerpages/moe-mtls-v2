@@ -93,7 +93,7 @@ max-width:30%;
 <img src="/images/ML/repeated_nur fitri_nlb.png" style="width:100%">
    </div>
 
- <p> <strong>Nur Fitri Binte Muhammad Syafran</strong><br>
+ <p> <strong>Ms Nur Fitri Binte Muhammad Syafran</strong><br>
 	 <strong>Puan Nur Fitri Binte Muhammad Syafran&nbsp;</strong><br>
 	 <strong>Pustakawan (Bahasa Melayu)</strong><br>
 	 <strong>Lembaga Perpustakaan Negara </strong></p>
