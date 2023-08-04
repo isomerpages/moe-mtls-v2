@@ -97,7 +97,7 @@ max-width:30%;
  <p> <strong>Mr Muhammed Shahril Bin Shaik Abdullah<br>Encik Muhammed Shahril Bin Shaik Abdullah<br>Pustakawan (Bahasa Melayu)<br>Jabatan Perancangan Koleksi dan Pembangunan
 Lembaga Perpustakaan Negara</strong><br></p>
 	
-<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Lembaga Perpustakaan Negara, Singapura (NLB). Beliau mengendalikan beberapa program bacaan untuk kanak-kanak dari umur satu hingga sembilan tahun. Beliau memegang Sarjana Pendidikan dari Universiti Monash (Australia) dalam bidang Kepimpinan, Dasar dan Perubahan. Beliau minat dalam bidang penyelidikan sastera kanak-kanak dan pendidikan kritis. Beberapa karya beliau telah diterbitkan oleh Mediacorp, dan juga majalah Karyawan Angkatan Karyawan Islam (AMP). </p>
 	
@@ -106,7 +106,7 @@ Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Lembaga Perpustak
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
  Muhammed Shahril Shaik Abdullah is currently a librarian with the National Library Board, Singapore where he oversees reading programmes for children aged 1 to 9. He holds a Master of Education from Monash University (Australia) with a specialisation in Leadership, Policy and Change. His research interests include children's literature and critical education. Some of his writings have been published by MediaCorp, and in the Association of Muslim Professionals (AMP’s) Karyawan magazine. 
 </p>
-
+<br>
 
 <h4 id="C2" style="padding-top:12px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
