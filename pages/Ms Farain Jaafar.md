@@ -92,7 +92,7 @@ max-width:30%;
 <img src="/images/ML/fa_ain_jaafar.png" style="width:100%">
    </div>
 
- <p> <strong>Ms Far'ain Jaafar<br>Cik Far'ain Jaafar<br>Pustakawan (Bahasa Melayu)<br>Lembaga Perpustakaan Negara </strong><br></p><br>
+ <p> <strong>Ms Far'ain Jaafar<br>Cik Far'ain Jaafar<br>Ketua Pendidik <br>Yaa Bunayya SG </strong><br></p><br>
 	
 <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
@@ -108,7 +108,7 @@ Far'ain Jaafar is an educational leader with Yaa Bunayya SG and a published auth
 
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Join Ms Far’ain Jaafar in this captivating session where children and parents explore the magic of children’s literature! Discover the joy of actively engaging in the Malay language beyond storybooks through a range of exciting activities. Together, let's nurture a love for the Malay language and create cherished memories through active involvement and shared experiences.
+"Sertai Cik Far’ain dalam sesi yang pasti menawan hati di mana kanak-kanak dan ibu bapa meneroka keajaiban sastera kanak-kanak! Sesi ini menyediakan peluang untuk kanak-kanak dan ibu bapa  melibatkan diri secara aktif dalam pelbagai aktiviti menarik menerusi buku-buku bahasa Melayu. Marilah kita memupuk cinta terhadap bahasa Melayu dan mencipta memori yang indah melalui penglibatan aktif dan pengalaman yang dikongsi bersama. 
 </p><br>
 	
 
