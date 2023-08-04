@@ -109,7 +109,7 @@ Mr Haniman Boniran is a Senior Manager of the Education department with Mandai W
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Taman Haiwan Singapura menghasilkan berbagai cerita haiwan yang boleh digunakan untuk mempertingkatkan kemahiran literasi kanak-kanak. Buku tanpa dialog berkenaan tenggiling ialah satu contoh cerita haiwan unik yang dihasilkan untuk tujuan ini.&nbsp;
-Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperluaskan daya kreativiti kanak-kanak dan sekaligus memperkayakan kosa kata mereka. Para ibu bapa dan guru akan diperlengkapkan dengan panduan akitiviti yang mendorong mereka untuk memperkasakan kanak-kanak prasekolah untuk menjadi pencerita yang berbakat.
+Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperluaskan daya kreativiti kanak-kanak dan sekaligus memperkayakan kosa kata mereka. Para ibu bapa dan guru akan diperlengkapkan dengan panduan aktiviti yang mendorong mereka untuk memperkasakan kanak-kanak prasekolah untuk menjadi pencerita yang berbakat.
 </p><br><br>
 
 	
