@@ -97,7 +97,7 @@ max-width:30%;
  <p> <strong>Mr Muhammed Shahril Bin Shaik Abdullah<br>Encik Muhammed Shahril Bin Shaik Abdullah<br>Pustakawan (Bahasa Melayu)<br>Jabatan Perancangan Koleksi dan Pembangunan
 Lembaga Perpustakaan Negara</strong><br></p>
 	
-<h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Lembaga Perpustakaan Negara, Singapura (NLB). Beliau mengendalikan beberapa program bacaan untuk kanak-kanak dari umur satu hingga sembilan tahun. Beliau memegang Sarjana Pendidikan dari Universiti Monash (Australia) dalam bidang Kepimpinan, Dasar dan Perubahan. Beliau minat dalam bidang penyelidikan sastera kanak-kanak dan pendidikan kritis. Beberapa karya beliau telah diterbitkan oleh Mediacorp, dan juga majalah Karyawan Angkatan Karyawan Islam (AMP). </p>
 	
@@ -108,7 +108,7 @@ Muhammed Shahril Shaik Abdullah bertugas sebagai pustakawan di Lembaga Perpustak
 </p>
 
 
-<h4 id="C2" style="padding-top:24px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<h4 id="C2" style="padding-top:12px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Buku-buku bergambar memainkan peranan yang sangat penting dalam perkembangan intelektual serta sosio-emosi kanak-kanak. Melalui buku-buku bergambar, kanak-kanak bukan hanya dapat mengembangkan kemahiran literasi&nbsp; mereka malah&nbsp; nilai-nilai teras seperti sifat empati serta kesedaran tentang dunia mereka dalam persekitaran yang aman dan selamat. Walau bagaimanapun, semua ini tidak akan dapat dicapai tanpa penglibatan golongan dewasa untuk memudahkan proses tersebut. Sesi ini akan memberi tumpuan kepada pendekatan dialogik terhadap pembacaan buku-buku bergambar dalam meningkatkan perkembangan&nbsp; literasi visual serta pemerolehan bahasa kanak-kanak yang kritikal. Para ibu bapa juga akan dapat mempelajari&nbsp; beberapa teknik bercerita bersifat interaktif yang boleh mereka laksanakan di rumah bersama anak-anak.
 </p>
