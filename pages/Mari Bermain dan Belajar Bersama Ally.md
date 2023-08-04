@@ -105,7 +105,7 @@ Melalui Poppet, Norlin membantu penulis-penulis lain mengkonsepsikan dan menerbi
 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Norlin Samat is the founder of Poppet’s World, an educational services and book publishing company. She is a passionate educator and the writer of the Ally’s Adventures bilingual book series for children aged 4 – 7 years.
-Through Poppet, Norlin helps other writers conceptualise and publish their children’s books, and provides various institutions in Singapore with educational programmes targeted at young children, parents and educators. Norlin understands the importance of making learning enjoyable and fun.  This guides her in her work. An ex-primary school teacher, Norlin has a Post-graduate Diploma in Education and an MA in Language Studies. 	</p><br><br>
+Through Poppet, Norlin helps other writers conceptualise and publish their children’s books, and provides various institutions in Singapore with educational programmes targeted at young children, parents and educators. Norlin understands the importance of making learning enjoyable and fun.  This guides her in her work. An ex-primary school teacher, Norlin has a Post-graduate Diploma in Education and an MA in Language Studies.. 	</p><br><br>
 
 
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
