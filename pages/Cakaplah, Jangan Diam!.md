@@ -99,7 +99,7 @@ max-width:30%;
 	</p>
 	
 	
-<h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE.  Beliau mempunyai 13 tahun pengalaman mengajarkan Bahasa Melayu (BM) di sekolah menengah dan 26 tahun bergiat dalam bidang Kurikulum BM di ibu pejabat MOE.  Semasa di MOE, beliau pernah terlibat dalam usaha-usaha menyemak, merancang, membangun dan memantau pelaksanaan kurikulum  Bahasa Melayu bagi sekolah-sekolah di Singapura.  Beliau juga pernah menerajui kumpulan pembina bahan dalam pembangunan sukatan pelajaran dan bahan pengajaran.  Kini, beliau bertugas sebagai Pegawai Projek sambilan bagi menyokong pembinaan dan pelaksanaan sukatan, bahan pengajaran dan latihan guru bagi kumpulan prasekolah. 
 	</p>
@@ -110,7 +110,7 @@ Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE.
 Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She has more than 13 years of experience in teaching the Malay Language in schools and 26 years of experience in curriculum planning and development in MOE HQ. While in MOE, her work involved planning, reviewing, developing and monitoring the implementation of the Malay Language Curriculum for schools.  She led a group of curriculum officers in curriculum work, which included the development of syllabi and instructional materials. Currently, she serves as a part-time Project Officer for the development and implementation of preschool Malay Curriculum, teaching resources and training materials for teachers.
 	</p>
 
-<h4 id="C2" style="padding-top:24px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<h4 id="C2" style="padding-top:12px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal.  Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan.  Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak.  Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
 </p>
