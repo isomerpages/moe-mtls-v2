@@ -98,8 +98,8 @@ max-width:30%;
 	
 <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Nur-El-Hudaa Jaffar terlibat dalam penerbitan buku kanak-kanak sebagai editor, penterjemah dan penulis. Buku bergambar dwibahasa pertamanya, telah diterbitkan pada 2014. Sejak itu, beliau telah menerbitkan tujuh lagi buku bergambar dan kini sedang menyediakan novel pertamanya untuk pembaca sekolah rendah. Beliau seorang pencerita sukarelawan di Perpustakaan Negara. Beliau telah menjalankan bengkel penulisan kreatif untuk pelajar dan membuat perkongsian mengenai buku bergambar kepada ibu bapa dan guru. Beliau percaya bahawa terdapat keajaiban dalam buku bergambar untuk kanak-kanak dan orang dewasa dan kanak-kanak harus digalakkan untuk berimaginasi dan mencipta cerita mereka sendiri.
-</p><br><br>
+Nur-El-Hudaa Jaffar terlibat dalam penerbitan buku kanak-kanak sebagai editor, penterjemah dan penulis. Buku bergambar dwibahasa pertamanya, telah diterbitkan pada 2014. Sejak itu, beliau telah menerbitkan tujuh lagi buku bergambar dan kini sedang menyediakan novel pertamanya untuk pembaca sekolah rendah. Beliau seorang pencerita sukarelawan di Perpustakaan Negara. Beliau telah menjalankan bengkel penulisan kreatif untuk pelajar dan membuat perkongsian mengenai buku bergambar kepada ibu bapa dan guru. Beliau percaya bahawa terdapat keajaiban dalam buku bergambar untuk kanak-kanak dan orang dewasa dan kanak-kanak harus digalakkan untuk berimaginasi dan mencipta cerita mereka sendiri.<br><br>
+</p>
 	
  <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 
@@ -119,4 +119,3 @@ Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dala
 	<p style="font-family: Lato,sans-serif;">
 Story writing enables children to develop their creativity, language ability and communication skills. In this workshop, participants will create their own stories. Starting with the short story, the presenter will share with participants elements of story building through character, plot and emotions. Participants will get to know a superhero who does not exactly fit the "superhero" mold that we often see in books, movies and television shows. Participants will have the opportunity to give a new ending to the story or draft their own superhero stories.
 </p></div>
-
