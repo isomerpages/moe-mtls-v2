@@ -99,24 +99,22 @@ max-width:30%;
 	 <strong>Lembaga Perpustakaan Negara </strong></p>
   
 	
-<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
-<p style="margin:0px;font-family: Lato,sans-serif;">
-Nur Fitri seorang pustakawan bersama jabatan Perancangan Koleksi &amp; Pembangunan di NLB. Beliau merancang dan menjalankan program dan perkhidmatan untuk kanak-kanak, ibu bapa dan pendidik. Beliau mempunyai minat yang mendalam untuk memupuk minat membaca dalam Bahasa Melayu dalam kalangan kanak-kanak dan berasa seronok bekerjasama dengan ibu bapa serta pendidik yang mempunyai misi yang sama. Tugasnya memerlukan beliau untuk menjana dan mempromosi kandungan, mengendalikan program dan bengkel serta bekerjasama dengan rakan kongsi. Pengalaman beliau sebagai mantan guru Bahasa Melayu membantu dalam kerjayanya kini kerana beliau memiliki pengetahuan asas dalam perkembangan kanak-kanak.</p>
+<h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
+Nur Fitri seorang pustakawan bersama jabatan Perancangan Koleksi Pembangunan di NLB. Beliau merancang dan menjalankan program dan perkhidmatan untuk kanak-kanak, ibu bapa dan pendidik. Beliau mempunyai minat yang mendalam untuk memupuk minat membaca dalam Bahasa Melayu dalam kalangan kanak-kanak dan berasa seronok bekerjasama dengan ibu bapa serta pendidik yang mempunyai misi yang sama. Tugasnya memerlukan beliau untuk menjana dan mempromosi kandungan, mengendalikan program dan bengkel serta bekerjasama dengan rakan kongsi. Pengalaman beliau sebagai mantan guru Bahasa Melayu membantu dalam kerjayanya kini kerana beliau memiliki pengetahuan asas dalam perkembangan kanak-kanak.</p>
 	
- <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
+ <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 
-<p style="margin:0px;font-family: Lato,sans-serif;">
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Nur Fitri is a librarian from the Collection Planning &amp; Development department in NLB, specialising in programmes and services for children, parents and educators. She is passionate about instilling the love for reading in Malay among children and enjoys working with parents and educators who share the same mission. Her work keeps her busy with content development and promotion, conducting and facilitating programmes and workshops, and collaborating with partners. She is grateful for her experience as a former Malay Language teacher as it gives her a foundation in children’s development that value adds to her current work.
 </p><br>
 
-<h4 style="padding-top:12px;margin:0px;color:#a3c864;"> Memupuk Minat Membaca Dalam Kalangan Anak-anak Kita </h4>	
 
-<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-<p style="margin:0px;font-family: Lato,sans-serif;">
+<h4 id="C2" style="padding-top:24px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Bengkel ini bertujuan melengkapkan ibu bapa dengan ilmu dan kemahiran untuk memupuk sikap positif terhadap membaca dalam kalangan anak-anak mereka. Ibu bapa akan memahami kepentingan memupuk minat membaca sejak awal lagi dan cara-cara memilih buku bergambar yang sesuai mengikut tahap perkembangan anak-anak mereka. Ibu bapa juga akan diperkenalkan kepada lima amalan literasi awal yang dapat membantu anak-anak mereka membaca dengan lancar. Kehadiran semua ibu bapa dan pendidik kepada kanak-kanak antara 0 hingga 6 tahun amat dialu-alukan.
 </p>
-	<br>
-<h4 style="magin:0px;padding-top:12px;margin:0px;color:#a3c864;">Instilling The Love for Reading Among Our Children</h4>
-<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
-<p style="margin:0px;font-family: Lato,sans-serif;">
+
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+	<p style="margin:0px; font-family: Lato,sans-serif;">
 This workshop aims to equip parents with the knowledge and skills to inculcate a positive attitude towards reading among children. Parents will understand the importance of reading at an early age and learn how to select the right picture books according to their child’s developmental level. Parents will also be introduced to the five early literacy practices that support their children in becoming fluent readers. All parents and educators of children between 0 to 6 years of age are welcome.</p></div>
