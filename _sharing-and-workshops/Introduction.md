@@ -32,7 +32,7 @@ description: ""
   padding: 15px 20px;
   text-align:center;
   text-decoration:none;
-  background-color: #3BB9FF;!important; 
+  background-color: #7431e8;!important; 
   color: white !important;
   border-radius:6px;
   outline:none;
@@ -57,6 +57,6 @@ background-color: lightgrey;!important;
 <br><br>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-<a href="/chinese-session"> <div style="display:inline-block;font-size:25px;" class="btnClass1">Sharing Sessions<br>&nbsp;</div></a>
+<a href="/chinese-session"> <div style="display:inline-block;font-size:25px;" class="btnClass1">Sharing <br>&nbsp; Sessions</div></a>
 <a href="/iw-chinese-session"><div style="display:inline-block;font-size:25px;" class="btnClass1">Interactive Workshops</div></a>
 	</div></div>
