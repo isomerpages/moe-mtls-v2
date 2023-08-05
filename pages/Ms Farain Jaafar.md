@@ -108,7 +108,7 @@ Far'ain Jaafar is an educational leader with Yaa Bunayya SG and a published auth
 
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-"Sertai Cik Far’ain dalam sesi yang pasti menawan hati di mana kanak-kanak dan ibu bapa meneroka keajaiban sastera kanak-kanak! Sesi ini menyediakan peluang untuk kanak-kanak dan ibu bapa  melibatkan diri secara aktif dalam pelbagai aktiviti menarik menerusi buku-buku bahasa Melayu. Marilah kita memupuk cinta terhadap bahasa Melayu dan mencipta memori yang indah melalui penglibatan aktif dan pengalaman yang dikongsi bersama. 
+Sertai Cik Far’ain dalam sesi yang pasti menawan hati di mana kanak-kanak dan ibu bapa meneroka keajaiban sastera kanak-kanak! Sesi ini menyediakan peluang untuk kanak-kanak dan ibu bapa  melibatkan diri secara aktif dalam pelbagai aktiviti menarik menerusi buku-buku bahasa Melayu. Marilah kita memupuk cinta terhadap bahasa Melayu dan mencipta memori yang indah melalui penglibatan aktif dan pengalaman yang dikongsi bersama. 
 </p><br>
 	
 
