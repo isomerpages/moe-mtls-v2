@@ -108,7 +108,7 @@ max-width:30%;
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 The Mother Tongue Languages Branch (MTLB) EdTech Working Group (ETWG) is a team of curriculum officers that develop curriculum-aligned digital resources to support teachers and students in the learning of Mother Tongue Languages (MTL). The team also stays abreast of emerging technology and leverages tech tools such as AI to create and customise meaningful learning experiences that cater to diverse learning needs.
 </p><br>
-	<h4 id="C2" style="padding-top:24px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
+<h4 id="C2" style="padding-top:24px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify;">
 “Mum, I want to log in to SLS!” “Dad, look at what I did in SLS!”
 You might have heard your child mention the SLS and seen her/him engaging in SLS learning on a laptop or tablet.
