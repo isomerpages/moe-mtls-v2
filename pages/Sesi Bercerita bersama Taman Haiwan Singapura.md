@@ -93,7 +93,7 @@ max-width:30%;
 <img src="/images/ML/haniman_2023.png" style="width:100%">
    </div>
 
- <p> <strong>Mr Haniman Boniran<br>Encik Haniman Boniran<br>Pengurus kanan bahagian pendidikan<br>Mandai Wildlife Group (MWG)</strong><br></p><br>
+ <p> <strong>Mr Haniman Boniran<br>Encik Haniman Boniran<br>Pengurus Kanan Bahagian Pendidikan<br>Mandai Wildlife Group (MWG)</strong><br></p><br>
 	
 <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
