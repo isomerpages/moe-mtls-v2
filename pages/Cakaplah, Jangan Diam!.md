@@ -114,7 +114,7 @@ Mdm Haslindah was a former Lead Specialist, at the Malay Language Unit, MOE. She
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Kemahiran lisan merupakan aspek kemahiran bahasa yang asas dan utama dalam proses pemerolehan bahasa seseorang kanak-kanak yang normal.  Seseorang kanak-kanak yang dapat menguasai kemahiran lisan dengan baik akan dapat melahirkan pendapat, fikiran dan perasaan secara berkesan.  Oleh itu, sesi ini memberikan peluang pada para peserta untuk menambah pengetahuan dan pengalaman mereka tentang kemahiran lisan dan aktiviti-aktiviti serta bahan-bahan pengajaran yang dapat digunakan untuk meningkatkan kemahiran ini dalam kalangan kanak-kanak.  Selain itu, terdapat juga perbincangan mengenai jenis penilaian yang dapat dijalankan untuk mengukur keupayaan kanak-kanak memperoleh kemahiran ini.
 </p>
-
-<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<br>
+<h4 id="C2" style="padding-top:24px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 	<p style="margin:0px; font-family: Lato,sans-serif;text-align: justify"> 
 	Oral language skills are of basic importance in a child’s language acquisition. A child who is able to master these skills will be able to express opinions, thoughts and feelings effectively. This session will provide participants an opportunity to extend their knowledge of basic oral skills and learn about activities and resources that can improve these skills in their children. There will also be an opportunity to discuss the types of assessment that could help educators and parents measure their children’s oral competency. </p><div></div></div>
