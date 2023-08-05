@@ -35,7 +35,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Sesi bercerita bersama Taman Haiwan Singapura<br>Storytime with Singapore Zoo <br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Sesi Bercerita bersama Taman Haiwan Singapura<br>Storytime with Singapore Zoo <br><br>
 Encik Haniman Boniran&nbsp;<br>
 Mr Haniman Boniran<br>
 </td>
@@ -82,7 +82,7 @@ Mdm Norlin Samat<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada membaca: aktiviti-aktiviti menarik melalui buku bahasa Melayu yang boleh dilakukan di rumah<br>Beyond reading aloud: fun activities to do at home through Malay language books&nbsp;<br><br>Cik Far'ain Jaafar<br>Ms Far'ain Jaafar<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada Membaca: Aktiviti-aktiviti Menarik melalui Buku Bahasa Melayu yang boleh Dilakukan di Rumah<br>Beyond Reading Aloud: Fun Activities to Do at Home through Malay Language Books<br><br>Cik Far'ain Jaafar<br>Ms Far'ain Jaafar<br>
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
