@@ -97,9 +97,7 @@ max-width:30%;
 <strong>Pegawai Projek </strong><br> 
 <strong>Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE)</strong><br>
 	</p>
-	
-	
-<h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
+<h4 id="C1" style="padding-top:24px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Puan Haslindah merupakan mantan Pakar Peneraju di Unit Bahasa Melayu, CPDD, MOE.  Beliau mempunyai 13 tahun pengalaman mengajarkan Bahasa Melayu (BM) di sekolah menengah dan 26 tahun bergiat dalam bidang Kurikulum BM di ibu pejabat MOE.  Semasa di MOE, beliau pernah terlibat dalam usaha-usaha menyemak, merancang, membangun dan memantau pelaksanaan kurikulum  Bahasa Melayu bagi sekolah-sekolah di Singapura.  Beliau juga pernah menerajui kumpulan pembina bahan dalam pembangunan sukatan pelajaran dan bahan pengajaran.  Kini, beliau bertugas sebagai Pegawai Projek sambilan bagi menyokong pembinaan dan pelaksanaan sukatan, bahan pengajaran dan latihan guru bagi kumpulan prasekolah. 
 	</p>
