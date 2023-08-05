@@ -64,7 +64,7 @@ Mdm Isadhora Mohamed<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Nak dengar cerita?<br>Want to hear a story?<br><br>Puan Salha Binte Mohamed Hussain<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Nak Dengar Cerita?<br>Want to hear a story?<br><br>Puan Salha Binte Mohamed Hussain<br>
 Mdm Salha Binte Mohamed Hussain<br>
 </td>
     <td style="border: none;
