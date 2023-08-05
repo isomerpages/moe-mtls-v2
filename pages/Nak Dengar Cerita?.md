@@ -106,7 +106,7 @@ Mdm Salha started her teaching career as a Malay Language teacher in 1989. She h
 </p><br>
 
 
-<h4 id="C2" style="margin:0px;padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+<h4 id="C2" style="margin:0px;padding-top:24px;color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Kebanyakan murid yang mempelajari Bahasa Melayu (BM) di sekolah rendah datang daripada latar yang kurang menggunakan BM sebagai bahasa pertuturan. Hal ini menimbulkan keprihatinan kerana murid-murid ini menghadapi cabaran dalam pembelajaran BM. Kurikulum BM yang baharu sedang meneroka penggunaan cerita untuk menarik minat murid dalam pembelajaran BM. Kajian lepas telah membuktikan bahawa kaedah bercerita memberikan manfaat untuk mewujudkan keseronokan dalam pembelajaran. Melalui sesi perkongsian ini, penyampai akan mengongsikan beberapa teknik bercerita yang berkesan untuk memperkaya kosa kata murid dan membantu mereka untuk menggunakan BM dengan lebih selesa.
 </p><br>
