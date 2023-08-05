@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1920x720 hero banner v5_nologos.jpg
+      background: /images/1920x720 hero banner v6_withlogos.jpg
       url: /
   - infobar: {}
 ---
