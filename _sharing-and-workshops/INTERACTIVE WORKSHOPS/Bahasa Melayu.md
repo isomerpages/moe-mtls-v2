@@ -97,7 +97,7 @@ Mdm Norlin Samat<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br>Dialogic reading of picture books and interactive storytelling techniques<br><br>Encik Muhammed Shahril Bin Shaik Abdullah<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Pembacaan dialogik buku-buku bergambar dan teknik-teknik bercerita yang bersifat interaktif<br>Dialogic Reading of Picture Books and Interactive Storytelling Techniques<br><br>Encik Muhammed Shahril Bin Shaik Abdullah<br>
 Muhammed Shahril Bin Shaik Abdullah<br>
 </td>
     <td style="border: none;
