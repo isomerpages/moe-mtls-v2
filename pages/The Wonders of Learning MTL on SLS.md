@@ -104,7 +104,6 @@ max-width:30%;
 	 <br>Assistant Director, Tamil Language </strong></strong></strong></strong></p><strong><strong><strong></strong></strong></strong>
 
  <h4 id="C1" style="padding-top:12px;margin:0px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
-
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 The Mother Tongue Languages Branch (MTLB) EdTech Working Group (ETWG) is a team of curriculum officers that develop curriculum-aligned digital resources to support teachers and students in the learning of Mother Tongue Languages (MTL). The team also stays abreast of emerging technology and leverages tech tools such as AI to create and customise meaningful learning experiences that cater to diverse learning needs.
 </p><br>
