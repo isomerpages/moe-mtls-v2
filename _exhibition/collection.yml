@@ -1,5 +1,5 @@
 collections:
-  centrepiece-and-exhibition:
+  exhibition:
     output: true
     order:
       - About.md
