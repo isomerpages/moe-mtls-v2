@@ -38,4 +38,3 @@ After ten iterations, MTLS has established its own branding and achieved its int
 <img src="/images/website about us banner.png">
 
 
-For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
