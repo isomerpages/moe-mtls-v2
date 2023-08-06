@@ -48,22 +48,6 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mewujudkan Persekitaran yang Kondusif untuk Memupuk Rasa Cinta terhadap Bahasa Melayu<br>Develop a Conducive Environment to Instil Love for the Malay Language 
-			<br><br>Puan Isadhora Mohamed&nbsp;<br>
-Mdm Isadhora Mohamed<br>
-   </td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/sc-ml-mdm-isadhora-mohamed/" class="btn1" style="color:#fff;">Sinopsis</a>
-</td>
-    </tr>
-</tbody></table>
-
-<br>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-    <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Nak Dengar Cerita?<br>Want to Hear a Story?<br><br>Puan Salha Binte Mohamed Hussain<br>
 Mdm Salha Binte Mohamed Hussain<br>
 </td>
@@ -84,6 +68,22 @@ Mdm Salha Binte Mohamed Hussain<br>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="/sc-ml-nur-fitri-binte-muhammad-syafran/" class="btn1" style="color:#fff;">Sinopsis</a>
+</td>
+    </tr>
+</tbody></table>
+
+<br>
+<table style="border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mewujudkan Persekitaran yang Kondusif untuk Memupuk Rasa Cinta terhadap Bahasa Melayu<br>Develop a Conducive Environment to Instil Love for the Malay Language 
+			<br><br>Puan Isadhora Mohamed&nbsp;<br>
+Mdm Isadhora Mohamed<br>
+   </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
+ <a href="/sc-ml-mdm-isadhora-mohamed/" class="btn1" style="color:#fff;">Sinopsis</a>
 </td>
     </tr>
 </tbody></table>
