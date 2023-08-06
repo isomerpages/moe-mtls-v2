@@ -48,7 +48,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mewujudkan Persekitaran yang Kondusif untuk Memupuk Rasa Cinta Terhadap Bahasa Melayu <br>Develop a Conducive Environment to Instil Love for the Malay Language 
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mewujudkan Persekitaran yang Kondusif untuk Memupuk Rasa Cinta terhadap Bahasa Melayu<br>Develop a Conducive Environment to Instil Love for the Malay Language 
 			<br><br>Puan Isadhora Mohamed&nbsp;<br>
 Mdm Isadhora Mohamed<br>
    </td>
