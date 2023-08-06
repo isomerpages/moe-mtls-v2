@@ -98,20 +98,20 @@ max-width:30%;
 	
 <h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Nur-El-Hudaa Jaffar terlibat dalam penerbitan buku kanak-kanak sebagai editor, penterjemah dan penulis. Buku bergambar dwibahasa pertamanya, telah diterbitkan pada 2014. Sejak itu, beliau telah menerbitkan tujuh lagi buku bergambar dan kini sedang menyediakan novel pertamanya untuk pembaca sekolah rendah. Beliau seorang pencerita sukarelawan di Perpustakaan Negara. Beliau telah menjalankan bengkel penulisan kreatif untuk pelajar dan membuat perkongsian mengenai buku bergambar kepada ibu bapa dan guru. Beliau percaya bahawa terdapat keajaiban dalam buku bergambar untuk kanak-kanak dan orang dewasa dan kanak-kanak harus digalakkan untuk berimaginasi dan mencipta cerita mereka sendiri.
+Cik Nur-El-Hudaa Jaffar terlibat dalam penerbitan buku kanak-kanak sebagai editor, penterjemah dan penulis. Buku bergambar dwibahasa pertamanya, telah diterbitkan pada 2014. Sejak itu, beliau telah menerbitkan tujuh lagi buku bergambar dan kini sedang menyediakan novel pertamanya untuk pembaca sekolah rendah. Beliau seorang pencerita sukarelawan di Perpustakaan Negara. Beliau telah menjalankan bengkel penulisan kreatif untuk pelajar dan membuat perkongsian mengenai buku bergambar kepada ibu bapa dan guru. Beliau percaya bahawa terdapat keajaiban dalam buku bergambar untuk kanak-kanak dan orang dewasa dan kanak-kanak harus digalakkan untuk berimaginasi dan mencipta cerita mereka sendiri.
 </p>
 	
  <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Nur-El-Hudaa Jaffar is involved in children’s books publishing as an editor, translator and writer. Her first bilingual picture book, “Where is My Home?” was published in 2014. Since then, she has published seven more picture books and is currently preparing her first novel for middle-grade readers. She volunteers as a storyteller with the National Library. Nur-El-Hudaa Jaffar has conducted creative writing workshops for students and talks on picture books for parents and teachers. She believes that there is magic in picture books for children and adults and that children should be encouraged to imagine and create their own stories.
+Ms Nur-El-Hudaa Jaffar is involved in children’s books publishing as an editor, translator and writer. Her first bilingual picture book, “Where is My Home?” was published in 2014. Since then, she has published seven more picture books and is currently preparing her first novel for middle-grade readers. She volunteers as a storyteller with the National Library. Ms Nur-El-Hudaa Jaffar has conducted creative writing workshops for students and talks on picture books for parents and teachers. She believes that there is magic in picture books for children and adults and that children should be encouraged to imagine and create their own stories.
 </p>
 	
 
 
 <h4 id="C2" style="padding-top:24px; color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dalam bahasa dan kemahiran komunikasi. Dalam bengkel ini, peserta akan mendapat peluang mengolah cerita mengikut cita rasa mereka sendiri. Bermula dengan pembentangan sebuah senario, Nur-El-Hudaa Jaffar akan berkongsi dengan para peserta unsur-unsur pembangunan cerita melalui watak, plot dan emosi. Peserta akan mengenali watak adiwira yang tidak serupa acuan “superhero” yang sering kita lihat dalam buku, filem dan rancangan televisyen. Peserta juga akan berpeluang memilih untuk memberi pengakhiran cerita yang baharu atau melakar cerita adiwira mereka sendiri.
+Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dalam bahasa dan kemahiran komunikasi. Dalam bengkel ini, peserta akan mendapat peluang mengolah cerita mengikut cita rasa mereka sendiri. Bermula dengan pembentangan sebuah senario, Cik Nur-El-Hudaa Jaffar akan berkongsi dengan para peserta unsur-unsur pembangunan cerita melalui watak, plot dan emosi. Peserta akan mengenali watak adiwira yang tidak serupa acuan “superhero” yang sering kita lihat dalam buku, filem dan rancangan televisyen. Peserta juga akan berpeluang memilih untuk memberi pengakhiran cerita yang baharu atau melakar cerita adiwira mereka sendiri.
 </p>
 
 	
