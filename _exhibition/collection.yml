@@ -2,4 +2,4 @@ collections:
   exhibition:
     output: true
     order:
-      - About.md
+      - EXHIBITION BOOTHS AND CENTREPIECE.md
