@@ -90,10 +90,10 @@ max-width:30%;
 <table>
 		<tbody><tr>
 		<td>
-		<img src="/images/EL/ms_lim hwee chen.png" style="width:65%"> 
+		<img src="/images/EL/ms_lim hwee chen.png" style="width:60%"> 
 		</td>
 		<td>
-		<img src="/images/EL/mr_mohan suppiah.png" style="width:65%">
+		<img src="/images/EL/mr_mohan suppiah.png" style="width:60%">
 		</td>
 		</tr>
 </tbody></table>
