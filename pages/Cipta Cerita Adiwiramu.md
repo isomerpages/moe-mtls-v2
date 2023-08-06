@@ -93,7 +93,7 @@ max-width:30%;
 <img src="/images/ML/nur_el_hudaa.png" style="width:100%">
    </div>
 
- <p> <strong>Ms Nur-El-Hudaa Jaffar<br>Cik Nur-El-Hudaa Jaffar<br>Penulis/Perunding editorial</strong><br></p>
+ <p> <strong>Ms Nur-El-Hudaa Jaffar<br>Cik Nur-El-Hudaa Jaffar<br>Penulis/Perunding Editorial</strong><br></p>
 
 	
 <h4 id="C1" style="padding-top:24px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
@@ -117,5 +117,5 @@ Melalui penulisan cereka, kanak-kanak dapat membina daya kreatif, keupayaan dala
 	
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 	<p style="margin:0px; font-family: Lato,sans-serif;text-align:justify">
-Story writing enables children to develop their creativity, language ability and communication skills. In this workshop, participants will create their own stories. Starting with the short story, the presenter will share with participants elements of story building through character, plot and emotions. Participants will get to know a superhero who does not exactly fit the "superhero" mold that we often see in books, movies and television shows. Participants will have the opportunity to give a new ending to the story or draft their own superhero stories.
+Story writing enables children to develop their creativity, language ability and communication skills. In this workshop, participants will create their own stories. Starting with the short story, the presenter will share with participants elements of story building through character, plot and emotions. Participants will get to know a superhero who does not exactly fit the "superhero" mould that we often see in books, movies and television shows. Participants will have the opportunity to give a new ending to the story or draft their own superhero stories.
 </p></div>
