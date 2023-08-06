@@ -13,5 +13,5 @@ sections:
       title: Mother Tongue Language Symposium 2023
       subtitle: Welcome to
       button: Enter
-      url: /
+      url: /aboutus
 ---
