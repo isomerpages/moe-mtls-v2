@@ -97,7 +97,7 @@ max-width:30%;
 	
 <h4 id="C1" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Norlin merupakan pengasas Poppet’s World, sebuah syarikat perkhidmatan pendidikan dan penerbitan buku. Beliau seorang pendidik yang berazam tinggi dan juga penulis buku-buku dwibahasa bersiri Pengembaraan Ally untuk kanak-kanak berusia antara 4-7 tahun. 
+Norlin Samat merupakan pengasas Poppet’s World, sebuah syarikat perkhidmatan pendidikan dan penerbitan buku. Beliau seorang pendidik yang berazam tinggi dan juga penulis buku-buku dwibahasa bersiri Pengembaraan Ally untuk kanak-kanak berusia antara 4-7 tahun. 
 Melalui Poppet, Norlin membantu penulis-penulis lain mengkonsepsikan dan menerbitkan buku kanak-kanak mereka. Beliau juga menyediakan pelbagai program kepada institusi-institusi pendidikan. Program-program pendidikan ini dikhususkan untuk kanak-kanak, ibu bapa dan pendidik-pendidik. Norlin memahami pentingnya menjadikan pembelajaran menyeronokkan dan menghiburkan. Prinsip inilah yang mendasari kerja seharian beliau. Selain seorang mantan guru sekolah rendah, Norlin mempunyai Diploma Pendidikan Lepasan Ijazah dan Ijazah Sarjana dalam Pengajian Bahasa.
  </p><br>
 	
