@@ -2,7 +2,7 @@ collections:
   sharing-and-workshops:
     output: true
     order:
-      - SHARING SESSIONS AND INTERACTIVE WORKSHOPS.md
+      - INTRODUCTION.md
       - SHARING SESSIONS/.keep
       - SHARING SESSIONS/华文.md
       - SHARING SESSIONS/Bahasa Melayu.md
