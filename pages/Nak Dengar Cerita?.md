@@ -94,7 +94,7 @@ max-width:30%;
 <p><strong>Mdm Salha Binte Mohamed Hussain<br>Puan Salha Binte Mohamed Hussain<br>Pakar Peneraju <br>Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE)</strong><br></p>
 <h4 id="C1" style="padding-top:24px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
-Cikgu Salha Mohamed Hussain memulakan perkhidmatan beliau sebagai guru Bahasa Melayu (BM) pada tahun 1989. Beliau mempunyai pengalaman mengajar yang luas di sekolah rendah dan di sekolah menengah. Beliau kini bertugas sebagai Pakar Peneraju di Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE). Beliau terlibat secara langsung dalam pembinaan kurikulum BM yang merangkumi penyediaan bahan-bahan pengajaran dalam bentuk bercetak dan tidak bercetak. Cikgu Salha merupakan seorang penerima Anugerah Guru Arif Budiman (AGAB) pada tahun 2011.
+Puan Salha Mohamed Hussain memulakan perkhidmatan beliau sebagai guru Bahasa Melayu (BM) pada tahun 1989. Beliau mempunyai pengalaman mengajar yang luas di sekolah rendah dan di sekolah menengah. Beliau kini bertugas sebagai Pakar Peneraju di Unit Bahasa Melayu, Kementerian Pendidikan Singapura (MOE). Beliau terlibat secara langsung dalam pembinaan kurikulum BM yang merangkumi penyediaan bahan-bahan pengajaran dalam bentuk bercetak dan tidak bercetak. Puan Salha merupakan seorang penerima Anugerah Guru Arif Budiman (AGAB) pada tahun 2011.
 </p>
 <h4 id="C1" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
