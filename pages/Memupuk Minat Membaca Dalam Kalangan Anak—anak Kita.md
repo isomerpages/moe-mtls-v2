@@ -94,7 +94,7 @@ max-width:30%;
    </div>
 
  <p> <strong>Ms Nur Fitri Binte Muhammad Syafran</strong><br>
-	 <strong>Puan Nur Fitri Binte Muhammad Syafran&nbsp;</strong><br>
+	 <strong>Cik Nur Fitri Binte Muhammad Syafran&nbsp;</strong><br>
 	 <strong>Pustakawan (Bahasa Melayu)</strong><br>
 	 <strong>Lembaga Perpustakaan Negara </strong></p>
 <h4 id="C1" style="padding-top:24px;color:#a3c864;font-family:Lato,sans-serif;">Profil</h4>
