@@ -10,7 +10,7 @@ sections:
       background: /images/1920x720 hero banner v6_withlogos.jpg
       url: /
   - infobar:
-      title: Mother Tongue Language Symposium 2023
+      title: Mother Tongue Languages Symposium 2023
       subtitle: Welcome to
       button: Enter
       url: /aboutus/
