@@ -53,7 +53,10 @@ background-color: lightgrey;!important;
 
 <center><span style="font-size:36px; font-color:#000000;"><strong>SHARING SESSIONS AND INTERACTIVE WORKSHOPS</strong></span></center>
 
-<p style="text-align:justify;font-size:20px">This year, we have 19 sharing sessions catering to parents and educators and 26 interactive workshops for parent and child bonding. The sessions and workshops focus on ways to promote MTL literacy and appreciation, drawing from the perspectives of academics, educators, curriculum specialists and media personalities. Parents and children can pre-register for the sharing sessions and interactive workshops from 8am, 14 Aug 2023.</p>
+<p style="text-align:justify;font-size:20px">This year, we have 19 sharing sessions catering to parents and educators and 26 interactive workshops for parent and child bonding. The sessions and workshops focus on ways to promote MTL literacy and appreciation, drawing from the perspectives of academics, educators, curriculum specialists and media personalities. Parents and children can pre-register for the sharing sessions and interactive workshops from 8am, 14 Aug 2023.<br><br>
+Speaker slides of the sharing sessions and interactive workshops will be uploaded to the website after the event.
+</p>
+
 <br><br>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
