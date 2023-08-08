@@ -10,3 +10,5 @@ description: About Us
 <p style="text-align:justify;">
 The theme of this year’s MTLS is “Flourish in the Wonderland of Our Languages,” and the symposium will be held on Saturday, 26 August 2023, at the Suntec Singapore Convention &amp; Exhibition Centre. The symposium will return to a full face-to-face format since the COVID-19 pandemic.
 </p>
+
+![](/images/website%20about%20us%20banner.png)
