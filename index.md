@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1920x720 hero banner v6_withlogos.jpg
+      background: /images/1920x720-hero-banner-all-mtl-v1.gif
       url: /
   - infobar:
       title: Mother Tongue Languages Symposium 2023
