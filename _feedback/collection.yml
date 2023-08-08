@@ -1,0 +1,5 @@
+collections:
+  feedback:
+    output: true
+    order:
+      - LINK TO FEEDBACK QR CODE.md
