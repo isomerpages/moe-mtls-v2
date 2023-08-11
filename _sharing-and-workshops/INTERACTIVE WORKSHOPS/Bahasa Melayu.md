@@ -51,20 +51,6 @@ Mr Haniman Boniran<br>
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Selain daripada Membaca: Aktiviti-aktiviti Menarik melalui Buku Bahasa Melayu yang boleh Dilakukan di Rumah<br>Beyond Reading Aloud: Fun Activities to Do at Home through Malay Language Books<br><br>Cik Far'ain Jaafar<br>Ms Far'ain Jaafar<br>
-            </td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/iw-ml-ms-farain-jaafar/" class="btn1" style="color:#fff;">Sinopsis</a>
-</td>
-    </tr>
-</tbody></table>
-
-<br>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-    <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mari Bermain dan Belajar Bersama Ally<br>Let’s Play and Learn with Ally<br><br>Puan Norlin Samat<br>
 Mdm Norlin Samat<br>
             </td>
