@@ -62,4 +62,6 @@ Speaker slides of the sharing sessions and interactive workshops will be uploade
 <div class="tab">
 <a href="/chinese-session"> <div style="display:inline-block;font-size:25px;" class="btnClass1">Sharing <br> Sessions</div></a>
 <a href="/iw-chinese-session"><div style="display:inline-block;font-size:25px;" class="btnClass1">Interactive Workshops</div></a>
+	<br>
+	<a href="https://www.event-reg.biz/Registration/eventreg?event=MTLSReg"><div style="display:inline-block;font-size:25px;" class="btnClass1">REGISTER NOW</div></a>
 	</div></div>
