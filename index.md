@@ -16,7 +16,7 @@ sections:
       url: /aboutus/
   - infopic:
       title: Sharing Sessions & Interactive Workshops
-      button: RIGISTER NOW
+      button: REGISTER NOW
       url: https://event-reg.biz/Registration/eventreg?event=MTLSReg
       alt: Image alt text
 ---
