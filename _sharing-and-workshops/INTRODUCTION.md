@@ -41,11 +41,25 @@ description: ""
   margin-bottom: 7px;
    width:31%;  
 }
-.btnClass1:hover {
+	.btnClass2{
+  display:inline-block;
+  padding: 15px 20px;
+  text-align:center;
+  text-decoration:none;
+  background-color: #FD49A0;!important; 
+  color: white !important;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
+   width:31%;  
+}
+.btnClass1:hover,.btnClass2:hover {
 background-color: lightgrey;!important;
  }
   @media screen and (max-width: 800px) {
- .btnClass1{
+ .btnClass1,.btnClass2{
     width: 69%; 
   }
 }
@@ -57,9 +71,11 @@ background-color: lightgrey;!important;
 Speaker slides of the sharing sessions and interactive workshops will be uploaded to the website after the event.
 </p>
 
-<br><br>
+
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
 <a href="/chinese-session"> <div style="display:inline-block;font-size:25px;" class="btnClass1">Sharing <br> Sessions</div></a>
 <a href="/iw-chinese-session"><div style="display:inline-block;font-size:25px;" class="btnClass1">Interactive Workshops</div></a>
+	<br><br><br>
+	<a href="https://www.event-reg.biz/Registration/eventreg?event=MTLSReg"><div style="display:inline-block;font-size:25px;" class="btnClass2">REGISTER<br>NOW</div></a>
 	</div></div>
