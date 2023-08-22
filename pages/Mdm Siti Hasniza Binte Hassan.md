@@ -47,5 +47,5 @@ max-width:100%;
     <p style="text-align:justify;font-family:Lato,sans-serif;">Mdm Siti Hasniza is an exemplary culture transmitter who is passionate in instilling the love of the Malay language and culture in her children. Although some of the topics related to Malay culture may be challenging for young children, Mdm Siti provides support and scaffolding through the use of appropriate self-made learning resources and visual aids. She also harnesses opportunities in class to nurture her children’s creativity by discussing about alternative ways to cook traditional Malay food. 
     </p>
     <p style="text-align:justify;font-family:Lato,sans-serif;">Mdm Siti Hasniza truly is a passionate language teacher who seeks to stretch the children’s horizons.</p> 
-     <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+    
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
