@@ -62,12 +62,12 @@ description: ""
 	
 <div class="column"> 
     <a href="/mdm-nurnazhiifah-binte-norazmi"><img src="/images/OPMTLPic/Outstanding/outstanding - mdm nurnazhiifah binte norazmi.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Nur NazhiifahsI Binte Norazmi</span><br><br> <span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten @ Wellington</span></center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Nur NazhiifahsI Binte Norazmi</span><br> <span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten @ Wellington</span></center> 
   <p></p>
     </div>
 <div class="column"> 
     <a href="/ms-noraini-binte-abu-bakar"><img src="/images/OPMTLPic/Outstanding/ms noraini binte abu bakar.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Noraini Binte Abu Bakar</span><br><br> <br><span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 2 Punggol Drive</span></center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Noraini Binte Abu Bakar</span><br> <br><span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 2 Punggol Drive</span></center> 
   <p></p>
     </div>
 </div>
@@ -121,7 +121,7 @@ description: ""
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Ramachandran Kavitha</span><br>
- <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
+ <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
  <p></p>
     </div>
  <div class="column">
