@@ -59,6 +59,17 @@ description: ""
 		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:KaiTi; font-size:25px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
   <p></p>
     </div>
+	
+<div class="column"> 
+    <a href="/mdm-nurnazhiifah-binte-norazmi"><img src="/images/OPMTLPic/Outstanding/outstanding - mdm nurnazhiifah binte norazmi.png" style="width:54% ;display:block;"> </a>
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Nur NazhiifahsI Binte Norazmi</span><br> <span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten @ Wellington</span></center> 
+  <p></p>
+    </div>
+<div class="column"> 
+    <a href="/ms-noraini-binte-abu-bakar"><img src="/images/OPMTLPic/Outstanding/ms noraini binte abu bakar.png" style="width:54% ;display:block;"> </a>
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Noraini Binte Abu Bakar</span><br> <span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 2 Punggol Drive</span></center> 
+  <p></p>
+    </div>
 </div>
 
 
