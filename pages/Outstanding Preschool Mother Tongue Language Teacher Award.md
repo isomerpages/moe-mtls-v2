@@ -36,19 +36,19 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/li-yinghua"><img src="/images/OPMTLPic/Outstanding/outstanding - ms li yinghua.png" style="width:54% ;display:block;"> </a>
-  <p> </p><center>Li Yinghua<br> <span style="font-family:KaiTi; font-size:25px;">李迎华 </span><br>My First Skool @ Blk 245 Bishan</center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Li Yinghua</span><br> <span style="font-family:KaiTi; font-size:25px;">李迎华 </span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool @ Blk 245 Bishan</span></center> 
   <p></p>
     </div>
   <div class="column">
   <a href="/deng-jinghong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms deng jinghong.png" style="width:54%;display:block;"></a>
- <p> </p><center>Deng Jinghong<br>
- <span style="font-family:KaiTi; font-size:25px;">邓景红 </span><br>MOE Kindergarten@Fernvale</center>
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Deng Jinghong</span><br>
+ <span style="font-family:KaiTi; font-size:25px;">邓景红 </span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten@Fernvale</span></center>
  <p></p>
     </div>
  <div class="column">
 <a href="/han-guirong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms han guirong.png" style="width:54%"></a> 
- <p> </p><center>Han Guirong<br>
-   <span style="font-family:Anjal InaiMathi; font-size:18px;">韩桂蓉</span><br>PCF Sparkletots Preschool @ Punggol West Blk 222</center>
+	 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Han Guirong</span><br>
+    <span style="font-family:KaiTi; font-size:25px;">韩桂蓉</span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Punggol West Blk 222</span></center>
    <p></p>
     </div>
 </div>
@@ -56,7 +56,7 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/Outstanding/outstanding - mrs sangeetha velmurugan.png" style="width:54% ;display:block;"> </a>
-  <p> </p><center>Mrs Sangeetha Velmurugan<br> <span style="font-family:KaiTi; font-size:25px;">திருமதி  சங்கீதா வேல்முருகன் </span><br>PCF Sparkletots Preschool @ Taman Jurong Blk 352</center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:KaiTi; font-size:25px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
   <p></p>
     </div>
 </div>
