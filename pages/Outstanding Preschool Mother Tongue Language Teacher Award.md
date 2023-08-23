@@ -93,4 +93,23 @@ description: ""
     </div>
 </div>
 
+<div class="row">
+  <div class="column"> 
+  <img src="/images/OPMTLPic/Merit/merit - mdm lei tianxia.png" style="width:54% ;display:block;">
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Lei Tianxia</span><br> <span style="font-family:KaiTi; font-size:25px;">雷天霞</span><br> <span style="font-family:KaiTi; font-size:25px;">M.Y World @ Bishan</span></center> 
+  <p></p>
+    </div>
+  <div class="column">
+  <img src="/images/OPMTLPic/Merit/merit - mdm cho ai-chu.png" style="width:54%;display:block;">
+<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Cho Ai-Chu</span><br>
+ <span style="font-family:KaiTi; font-size:25px;">卓愛珠 </span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Bukit Panjang Blk 412</span></center>
+ <p></p>
+    </div>
+ <div class="column">
+<img src="/images/OPMTLPic/Merit/merit - mdm salbiah binte mohd sa'at.png" style="width:54%">
+	 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Salbiah Binte Mohd Sa’at</span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots @ Sengkang North Blk 206A</span></center>
+   <p></p>
+    </div>
+</div>
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
