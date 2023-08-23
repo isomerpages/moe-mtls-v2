@@ -112,4 +112,24 @@ description: ""
     </div>
 </div>
 
+<div class="row">
+  <div class="column"> 
+  <img src="/images/OPMTLPic/Merit/merit - ms siti raudhah binte haidir.png" style="width:54% ;display:block;">
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Ms Siti Raudhah Binte Haidir</span><br><span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten&nbsp;@ Fernvale</span></center> 
+  <p></p>
+    </div>
+  <div class="column">
+  <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
+<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Ramachandran Kavitha</span><br>
+ <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
+ <p></p>
+    </div>
+ <div class="column">
+<img src="/images/OPMTLPic/Merit/merit - mrs uma devi.png" style="width:54%">
+	 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Uma Devi&nbsp;D/O R.&nbsp; Jayagumar</span><br>
+    <span style="font-family:KaiTi; font-size:25px;">உமா&nbsp;தேவி&nbsp;D/O ஜெயகுமார</span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 51 Fernvale Link S797536</span></center>
+   <p></p>
+    </div>
+</div>
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
