@@ -72,9 +72,25 @@ description: ""
     </div>
 </div>
 
-
-
-   
-   <h5><strong>Merit Award Winners</strong></h5><br>
+<h5><strong>Merit Award Winners</strong></h5><br>
+<div class="row">
+  <div class="column"> 
+  <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:25px;">吕金玲</span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool@Blk 677 Hougang Avenue 8</span></center> 
+  <p></p>
+    </div>
+  <div class="column">
+  <img src="/images/OPMTLPic/Merit/mdm wang chunying.png" style="width:54%;display:block;">
+<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Wang Chunying</span><br>
+ <span style="font-family:KaiTi; font-size:25px;">王春英 </span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten @ Blangah Rise</span></center>
+ <p></p>
+    </div>
+ <div class="column">
+<img src="/images/OPMTLPic/Merit/merit - ms tian aiping.png" style="width:54%">
+	 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Ms Tian Aiping</span><br>
+    <span style="font-family:KaiTi; font-size:25px;">田爱平</span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 83 Punggol Central</span></center>
+   <p></p>
+    </div>
+</div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
