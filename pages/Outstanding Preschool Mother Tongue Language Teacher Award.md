@@ -35,7 +35,7 @@ description: ""
 <br>
 <div class="row">
   <div class="column"> 
-    <a href="/li-yinghua"><img src="/images/OPMTLPic/" style="width:54% ;display:block;"> </a>
+    <a href="/li-yinghua"><img src="/images/OPMTLPic/Outstanding/outstanding - ms li yinghua.png" style="width:54% ;display:block;"> </a>
   <p> </p><center>Li Yinghua<br> <span style="font-family:KaiTi; font-size:25px;">李迎华 </span><br>My First Skool @ Blk 245 Bishan</center> 
   <p></p>
     </div>
