@@ -121,7 +121,7 @@ description: ""
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Ramachandran Kavitha</span><br>
- <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
+ <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
  <p></p>
     </div>
  <div class="column">
