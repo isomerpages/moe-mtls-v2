@@ -40,13 +40,13 @@ description: ""
   <p></p>
     </div>
   <div class="column">
-  <a href="/deng-jinghong"><img src="/images/OPMTLPic/" style="width:54%;display:block;"></a>
+  <a href="/deng-jinghong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms deng jinghong.png" style="width:54%;display:block;"></a>
  <p> </p><center>Deng Jinghong<br>
  <span style="font-family:KaiTi; font-size:25px;">邓景红 </span><br>MOE Kindergarten@Fernvale</center>
  <p></p>
     </div>
  <div class="column">
-<a href="/han-guirong"><img src="/images/OPMTLPic/" style="width:54%"></a> 
+<a href="/han-guirong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms han guirong.png" style="width:54%"></a> 
  <p> </p><center>Han Guirong<br>
    <span style="font-family:Anjal InaiMathi; font-size:18px;">韩桂蓉</span><br>PCF Sparkletots Preschool @ Punggol West Blk 222</center>
    <p></p>
@@ -55,7 +55,7 @@ description: ""
 
 <div class="row">
   <div class="column"> 
-    <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/" style="width:54% ;display:block;"> </a>
+    <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/Outstanding/outstanding - mrs sangeetha velmurugan.png" style="width:54% ;display:block;"> </a>
   <p> </p><center>Mrs Sangeetha Velmurugan<br> <span style="font-family:KaiTi; font-size:25px;">திருமதி  சங்கீதா வேல்முருகன் </span><br>PCF Sparkletots Preschool @ Taman Jurong Blk 352</center> 
   <p></p>
     </div>
