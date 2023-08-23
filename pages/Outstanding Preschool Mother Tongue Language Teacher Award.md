@@ -76,7 +76,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:25px;">吕金玲</span><br><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool@Blk 677 Hougang Avenue 8</span></center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:25px;">吕金玲</span><br><span style="font-family:KaiTi; font-size:25px;">My First Skool@Blk 677 Hougang Avenue 8</span></center> 
   <p></p>
     </div>
   <div class="column">
@@ -115,13 +115,13 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - ms siti raudhah binte haidir.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Ms Siti Raudhah Binte Haidir</span><br><br><br><br><span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten&nbsp;@ Fernvale</span></center> 
+		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Ms Siti Raudhah Binte Haidir</span><br><br><br><span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten&nbsp;@ Fernvale</span></center> 
   <p></p>
     </div>
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Ramachandran Kavitha</span><br>
- <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
+ <span style="font-family:KaiTi; font-size:25px;">ராமச்சந்திரன்&nbsp;கவிதா </span><br><span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @Paya Lebar</span></center>
  <p></p>
     </div>
  <div class="column">
