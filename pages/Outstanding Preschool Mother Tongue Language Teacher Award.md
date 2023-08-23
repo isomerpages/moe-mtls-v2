@@ -18,12 +18,12 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-    .column {
+	.column {
     float: left;
     width: 33.33%;
     padding: 5px;
 }
-    @media only screen and (max-width: 800px) {
+	@media only screen and (max-width: 800px) {
   .column {
     float: left;
     width: 100%;
