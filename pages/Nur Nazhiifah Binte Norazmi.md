@@ -26,7 +26,7 @@ max-width:100%;
   
   <a href="/opmtl-award" style="float:left;">Back</a><br>
 <h4 style="font-family:Lato,sans-serif;font-size:34px;text-align:justify;line-height:1.5;"> Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang) </h4><br>
- <img src="/images/OPMTLPic/mtls_opmtl_awards_1920x1080_v3_04_nur_nazhiifah.jpg" style="width:100%">
+ <img src="/images/OPMTLPic/mtls_opmtl_awards_1920x1080 v5_04 nur nazhiifah.jpg" style="width:100%">
  <br>
 <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
 <p style="text-align:justify;font-family:Lato,sans-serif;">
