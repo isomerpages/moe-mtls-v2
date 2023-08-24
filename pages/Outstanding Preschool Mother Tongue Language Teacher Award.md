@@ -86,7 +86,7 @@ description: ""
   <div class="column">
   <img src="/images/OPMTLPic/Merit/mdm wang chunying.png" style="width:54%;display:block;">
 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Wang Chunying</span><br>
- <span style="font-family:KaiTi; font-size:20px;">王春英 </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten<br> @ Blangah Rise</span></center>
+ <span style="font-family:KaiTi; font-size:20px;">王春英 </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten @ Blangah Rise</span></center>
  <p></p>
     </div>
 	
@@ -114,7 +114,7 @@ description: ""
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mdm salbiah binte mohd sa'at.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool<br>@ Sengkang North Blk 206A</span></center>
    <p></p>
     </div>
 </div>
