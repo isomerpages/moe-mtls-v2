@@ -136,7 +136,7 @@ description: ""
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mrs uma devi.png" style="width:54%">
 	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Uma Devi D/O R. Jayagumar</span><br>
-    <span style="font-family:Murasu-anjal; font-size:20px;">உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ 51 Fernvale Link</span></center>
+    <span style="font-family:Murasu-anjal; font-size:20px;"> திருமதி உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ 51 Fernvale Link</span></center>
    <p></p>
     </div>
 </div>
