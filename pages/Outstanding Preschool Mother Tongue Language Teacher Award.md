@@ -36,19 +36,21 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/li-yinghua"><img src="/images/OPMTLPic/Outstanding/outstanding - ms li yinghua.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Li Yinghua</span><br> <span style="font-family:KaiTi; font-size:25px;">李迎华 </span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool @ Blk 245 Bishan</span></center> 
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Li Yinghua</span><br> <span style="font-family:KaiTi; font-size:20px;">李迎华 </span><br> <span style="font-family:Lato; font-size:15px;">My First Skool @ Blk 245 Bishan</span></center> 
   <p></p>
     </div>
+	
   <div class="column">
   <a href="/deng-jinghong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms deng jinghong.png" style="width:54%;display:block;"></a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Deng Jinghong</span><br>
- <span style="font-family:KaiTi; font-size:25px;">邓景红 </span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten@Fernvale</span></center>
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Deng Jinghong</span><br>
+ <span style="font-family:KaiTi; font-size:20px;">邓景红 </span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Fernvale</span></center>
  <p></p>
     </div>
+	
  <div class="column">
 <a href="/han-guirong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms han guirong.png" style="width:54%"></a> 
-	 <p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Han Guirong</span><br>
-    <span style="font-family:KaiTi; font-size:25px;">韩桂蓉</span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Punggol West Blk 222</span></center>
+	 <p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Han Guirong</span><br>
+    <span style="font-family:KaiTi; font-size:20px;">韩桂蓉</span><br> <span style="font-family:lato; font-size:15px;">PCF Sparkletots Preschool @ Punggol West Blk 222</span></center>
    <p></p>
     </div>
 </div>
@@ -56,18 +58,19 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/Outstanding/outstanding - mrs sangeetha velmurugan.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:KaiTi; font-size:25px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:KaiTi; font-size:25px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:Murasu-anjal; font-size:20px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:Lato; font-size:15px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
   <p></p>
     </div>
 	
 <div class="column"> 
     <a href="/mdm-nurnazhiifah-binte-norazmi"><img src="/images/OPMTLPic/Outstanding/outstanding - mdm nurnazhiifah binte norazmi.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Nur NazhiifahsI Binte Norazmi</span><br> <span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">MOE Kindergarten @ Wellington</span></center> 
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Nur NazhiifahsI Binte Norazmi</span><br><br><span style="font-family:Lato; font-size:20px;"></span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Wellington</span></center> 
   <p></p>
     </div>
+	
 <div class="column"> 
     <a href="/ms-noraini-binte-abu-bakar"><img src="/images/OPMTLPic/Outstanding/ms noraini binte abu bakar.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:KaiTi; font-size:25px;">Noraini Binte Abu Bakar</span><br> <br><span style="font-family:KaiTi; font-size:25px;"></span><br> <span style="font-family:KaiTi; font-size:25px;">My First Skool at 2 Punggol Drive</span></center> 
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Noraini Binte Abu Bakar</span><br> <br><span style="font-family:Lato; font-size:20px;"></span><br><br> <span style="font-family:Lato; font-size:15px;">My First Skool at 2 Punggol Drive</span></center> 
   <p></p>
     </div>
 </div>
