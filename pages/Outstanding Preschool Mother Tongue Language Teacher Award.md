@@ -114,7 +114,7 @@ description: ""
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mdm salbiah binte mohd sa'at.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Salbiah Binte Mohd Sa’at</span><br><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Salbiah Binte Mohd Sa’at</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
    <p></p>
     </div>
 </div>
@@ -122,7 +122,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - ms siti raudhah binte haidir.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Siti Raudhah Binte Haidir</span><br><br><br><span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten @ Fernvale</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Siti Raudhah Binte Haidir</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Siti Raudhah Binte Haidir</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten @ Fernvale</span></center> 
   <p></p>
     </div>
 	
