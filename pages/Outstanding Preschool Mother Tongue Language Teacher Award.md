@@ -93,7 +93,7 @@ description: ""
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - ms tian aiping.png" style="width:54%">
 	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Tian Aiping</span><br>
-    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Waterway Point</span></center>
+    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool at Waterway Point</span></center>
    <p></p>
     </div>
 </div>
