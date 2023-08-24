@@ -64,13 +64,13 @@ description: ""
 	
 <div class="column"> 
     <a href="/mdm-nurnazhiifah-binte-norazmi"><img src="/images/OPMTLPic/Outstanding/outstanding - mdm nurnazhiifah binte norazmi.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Nur Nazhiifah Binte Norazmi</span><br><span style="font-family:Lato, sans-serif; font-size:20px;"></span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Wellington</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Nur Nazhiifah Binte Norazmi</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Nur Nazhiifah Binte Norazmi</span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Wellington</span></center> 
   <p></p>
     </div>
 	
 <div class="column"> 
     <a href="/ms-noraini-binte-abu-bakar"><img src="/images/OPMTLPic/Outstanding/ms noraini binte abu bakar.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Noraini Binte Abu Bakar</span><br><span style="font-family:Lato, sans-serif; font-size:20px;"></span><br><br> <span style="font-family:Lato; font-size:15px;">My First Skool @ Punggol Drive</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Noraini Binte Abu Bakar</span><br><span style="font-family:Lato, sans-serif; font-size:20px;">Cikgu Noraini Binte Abu Bakar</span><br> <span style="font-family:Lato; font-size:15px;">My First Skool @ 2 Punggol Drive</span></center> 
   <p></p>
     </div>
 </div>
