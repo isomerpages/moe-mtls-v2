@@ -101,7 +101,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lei tianxia.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lei Tianxia</span><br> <span style="font-family:KaiTi; font-size:20px;">雷天霞</span><br> <span style="font-family:Lato, sans-serif; font-size:15x;">M.Y World @ Bishan</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lei Tianxia</span><br> <span style="font-family:KaiTi; font-size:20px;">雷天霞</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">M.Y World @ Bishan</span></center>
   <p></p>
     </div>
 	
