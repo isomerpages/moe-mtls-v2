@@ -42,15 +42,15 @@ description: ""
 	
   <div class="column">
   <a href="/deng-jinghong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms deng jinghong.png" style="width:54%;display:block;"></a>
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Deng Jinghong</span><br>
- <span style="font-family:KaiTi; font-size:20px;">邓景红 </span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Fernvale</span></center>
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Deng Jinghong</span><br>
+ <span style="font-family:KaiTi; font-size:20px;">邓景红 </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten @ Fernvale</span></center>
  <p></p>
     </div>
 	
  <div class="column">
 <a href="/han-guirong"><img src="/images/OPMTLPic/Outstanding/outstanding - ms han guirong.png" style="width:54%"></a> 
-	 <p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Han Guirong</span><br>
-    <span style="font-family:KaiTi; font-size:20px;">韩桂蓉</span><br> <span style="font-family:lato; font-size:15px;">PCF Sparkletots Preschool @ Punggol West Blk 222</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Han Guirong</span><br>
+    <span style="font-family:KaiTi; font-size:20px;">韩桂蓉</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool @ Punggol West Blk 222</span></center>
    <p></p>
     </div>
 </div>
@@ -58,19 +58,19 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/Outstanding/outstanding - mrs sangeetha velmurugan.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:Murasu-anjal; font-size:20px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:Lato; font-size:15px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:Murasu-anjal; font-size:20px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
   <p></p>
     </div>
 	
 <div class="column"> 
     <a href="/mdm-nurnazhiifah-binte-norazmi"><img src="/images/OPMTLPic/Outstanding/outstanding - mdm nurnazhiifah binte norazmi.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Nur NazhiifahsI Binte Norazmi</span><br><br><span style="font-family:Lato; font-size:20px;"></span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Wellington</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Nur NazhiifahsI Binte Norazmi</span><br><br><span style="font-family:Lato, sans-serif; font-size:20px;"></span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Wellington</span></center> 
   <p></p>
     </div>
 	
 <div class="column"> 
     <a href="/ms-noraini-binte-abu-bakar"><img src="/images/OPMTLPic/Outstanding/ms noraini binte abu bakar.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Noraini Binte Abu Bakar</span><br><span style="font-family:Lato; font-size:20px;"></span><br><br> <span style="font-family:Lato; font-size:15px;">My First Skool  2 Punggol Drive</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Noraini Binte Abu Bakar</span><br><span style="font-family:Lato, sans-serif; font-size:20px;"></span><br><br> <span style="font-family:Lato; font-size:15px;">My First Skool  2 Punggol Drive</span></center> 
   <p></p>
     </div>
 </div>
@@ -79,21 +79,21 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato; font-size:15px;">My First Skool @ Blk 677 Hougang Avenue 8</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Blk 677 Hougang Avenue 8</span></center> 
   <p></p>
     </div>
 	
   <div class="column">
   <img src="/images/OPMTLPic/Merit/mdm wang chunying.png" style="width:54%;display:block;">
-<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mdm Wang Chunying</span><br>
- <span style="font-family:KaiTi; font-size:20px;">王春英 </span><br> <span style="font-family:Lato; font-size:15px;">MOE Kindergarten<br> @ Blangah Rise</span></center>
+<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Wang Chunying</span><br>
+ <span style="font-family:KaiTi; font-size:20px;">王春英 </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten<br> @ Blangah Rise</span></center>
  <p></p>
     </div>
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - ms tian aiping.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Tian Aiping</span><br>
-    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato; font-size:15px;">My First Skool<br>@ 83 Punggol Central</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Tian Aiping</span><br>
+    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool<br>@ 83 Punggol Central</span></center>
    <p></p>
     </div>
 </div>
@@ -101,20 +101,20 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lei tianxia.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mdm Lei Tianxia</span><br> <span style="font-family:KaiTi; font-size:20px;">雷天霞</span><br> <span style="font-family:Lato; font-size:15x;">M.Y World @ Bishan</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lei Tianxia</span><br> <span style="font-family:KaiTi; font-size:20px;">雷天霞</span><br> <span style="font-family:Lato, sans-serif; font-size:15x;">M.Y World @ Bishan</span></center> 
   <p></p>
     </div>
 	
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mdm cho ai-chu.png" style="width:54%;display:block;">
-<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mdm Cho Ai-Chu</span><br>
- <span style="font-family:KaiTi; font-size:20px;">卓愛珠 </span><br> <span style="font-family:Lato; font-size:15px;">PCF Sparkletots Preschool<br>@ Bukit Panjang Blk 412</span></center>
+<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Cho Ai-Chu</span><br>
+ <span style="font-family:KaiTi; font-size:20px;">卓愛珠 </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool<br>@ Bukit Panjang Blk 412</span></center>
  <p></p>
     </div>
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mdm salbiah binte mohd sa'at.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato; font-size:20px;">Mdm Salbiah Binte Mohd Sa’at</span><br> <span style="font-family:Lato; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Salbiah Binte Mohd Sa’at</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
    <p></p>
     </div>
 </div>
@@ -122,21 +122,21 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - ms siti raudhah binte haidir.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Siti Raudhah Binte Haidir</span><br><br><br><span style="font-family:Lato; font-size:15px;">MOE Kindergarten @ Fernvale</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Siti Raudhah Binte Haidir</span><br><br><br><span style="font-family:Lato, sans-serif; font-size:15px;">MOE Kindergarten @ Fernvale</span></center> 
   <p></p>
     </div>
 	
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
-<p> </p><center> <span style="font-family:Lato; font-size:20px;">Mrs Ramachandran Kavitha</span><br>
- <span style="font-family:Murasu-anjal; font-size:20px;">ராமச்சந்திரன்கவிதா </span><br><span style="font-family:Lato; font-size:15px;">PCF Sparkletots Preschool<br>@ Paya Lebar</span></center>
+<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Ramachandran Kavitha</span><br>
+ <span style="font-family:Murasu-anjal; font-size:20px;">ராமச்சந்திரன்கவிதா </span><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool<br>@ Paya Lebar</span></center>
  <p></p>
     </div>
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mrs uma devi.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato; font-size:20px;">Mrs Uma Devi D/O R. Jayagumar</span><br>
-    <span style="font-family:Murasu-anjal; font-size:20px;">உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato; font-size:15px;">My First Skool @ 51 Fernvale Link</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Uma Devi D/O R. Jayagumar</span><br>
+    <span style="font-family:Murasu-anjal; font-size:20px;">உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ 51 Fernvale Link</span></center>
    <p></p>
     </div>
 </div>
