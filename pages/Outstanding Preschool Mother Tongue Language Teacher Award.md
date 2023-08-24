@@ -79,7 +79,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Blk 677 Hougang Avenue 8</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool<br>@ Blk 677 Hougang Avenue 8</span></center> 
   <p></p>
     </div>
 	
@@ -114,7 +114,7 @@ description: ""
 	
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mdm salbiah binte mohd sa'at.png" style="width:54%">
-	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Salbiah Binte Mohd Sa’at</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
+	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Salbiah Binte Mohd Sa’at</span><br><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots<br>@ Sengkang North Blk 206A</span></center>
    <p></p>
     </div>
 </div>
@@ -129,7 +129,7 @@ description: ""
   <div class="column">
   <img src="/images/OPMTLPic/Merit/merit - mrs ramachandran kavitha.png" style="width:54%;display:block;">
 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Ramachandran Kavitha</span><br>
- <span style="font-family:Murasu-anjal; font-size:20px;">ராமச்சந்திரன்கவிதா </span><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool<br>@ Paya Lebar</span></center>
+ <span style="font-family:Murasu-anjal; font-size:20px;">ராமச்சந்திரன்கவிதா </span><br><br><span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool<br>@ Paya Lebar</span></center>
  <p></p>
     </div>
 	
