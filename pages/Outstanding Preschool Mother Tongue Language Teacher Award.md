@@ -58,7 +58,7 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/mrs-sangeetha-velmurugan"><img src="/images/OPMTLPic/Outstanding/outstanding - mrs sangeetha velmurugan.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:Murasu-anjal; font-size:20px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Sangeetha Velmurugan</span><br> <span style="font-family:Murasu-anjal; font-size:18px;">திருமதி  சங்கீதா வேல்முருகன் </span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">PCF Sparkletots Preschool @ Taman Jurong Blk 352</span></center> 
   <p></p>
     </div>
 	
@@ -79,7 +79,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool<br>@ Blk 677 Hougang Avenue 8</span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Blk 677 Hougang </span></center> 
   <p></p>
     </div>
 	
@@ -93,7 +93,7 @@ description: ""
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - ms tian aiping.png" style="width:54%">
 	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Ms Tian Aiping</span><br>
-    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool<br>@ 83 Punggol Central</span></center>
+    <span style="font-family:KaiTi; font-size:20px;">田爱平</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Waterway Point</span></center>
    <p></p>
     </div>
 </div>
