@@ -36,7 +36,7 @@ description: ""
 <div class="row">
   <div class="column"> 
     <a href="/li-yinghua"><img src="/images/OPMTLPic/Outstanding/outstanding - ms li yinghua.png" style="width:54% ;display:block;"> </a>
-		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Li Yinghua</span><br> <span style="font-family:KaiTi; font-size:20px;">李迎华 </span><br> <span style="font-family:Lato; font-size:15px;">My First Skool @ Blk 245 Bishan</span></center> 
+		<p> </p><center> <span style="font-family:Lato; font-size:20px;">Ms Li Yinghua</span><br> <span style="font-family:KaiTi; font-size:20px;">李迎华 </span><br> <span style="font-family:Lato; font-size:15px;">My First Skool at Blk 245 Bishan</span></center> 
   <p></p>
     </div>
 	
@@ -79,7 +79,7 @@ description: ""
 <div class="row">
   <div class="column"> 
   <img src="/images/OPMTLPic/Merit/merit - mdm lu jinling.png" style="width:54% ;display:block;">
-		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ Blk 677 Hougang </span></center> 
+		<p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mdm Lu Jinling</span><br> <span style="font-family:KaiTi; font-size:20px;">吕金玲</span><br><span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool at Blk 677 Hougang </span></center> 
   <p></p>
     </div>
 	
@@ -136,7 +136,7 @@ description: ""
  <div class="column">
 <img src="/images/OPMTLPic/Merit/merit - mrs uma devi.png" style="width:54%">
 	 <p> </p><center> <span style="font-family:Lato, sans-serif; font-size:20px;">Mrs Uma Devi D/O R. Jayagumar</span><br>
-    <span style="font-family:Murasu-anjal; font-size:18px;"> திருமதி உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool @ 51 Fernvale Link</span></center>
+    <span style="font-family:Murasu-anjal; font-size:18px;"> திருமதி உமாதேவிD/O ஜெயகுமார</span><br> <span style="font-family:Lato, sans-serif; font-size:15px;">My First Skool at 51 Fernvale Link</span></center>
    <p></p>
     </div>
 </div>
