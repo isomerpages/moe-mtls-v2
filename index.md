@@ -15,7 +15,7 @@ sections:
       button: Enter
       url: /aboutus/
   - infobar:
-      title: "Sharing Sessions & Interactive Workshops "
-      button: Register now
-      url: https://event-reg.biz/Registration/eventreg?event=MTLSReg
+      title: Sharing Sessions & Interactive Workshops
+      button: Learn More
+      url: /sharing-and-workshops/introduction/
 ---
