@@ -2,5 +2,5 @@ collections:
   exhibition:
     output: true
     order:
-      - Community Partners.md
       - EXHIBITION BOOTHS AND CENTREPIECE.md
+      - Community Partners.md
