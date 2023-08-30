@@ -2,5 +2,6 @@ collections:
   exhibition:
     output: true
     order:
+      - PRIMARY & SECONDARY SCHOOLS.md
       - EXHIBITION BOOTHS AND CENTREPIECE.md
       - COMMUNITY PARTNERS.md
