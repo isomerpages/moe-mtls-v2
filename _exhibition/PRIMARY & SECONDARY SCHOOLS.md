@@ -7,7 +7,7 @@ description: ""
     .btn1{
     font-size: 16px;
     font-family:Lato,sans-serif;
-    background-color: #9b4490;
+    background-color: #a3c864;
     padding: 10px 13px;
     margin: -5px 13px;
     border-radius: 6px;
@@ -34,7 +34,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Jurong West Secondary School<br><br>Exploring the World through the Lens
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Jurong West Secondary School<br><br>Exploring the World through the Lens
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -48,7 +48,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bedok Green Secondary School<br><br>Our Rich Culture</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bedok Green Secondary School<br><br>Our Rich Culture</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -61,7 +61,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mayflower Secondary School<br><br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mayflower Secondary School<br><br>
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -75,7 +75,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bukit View Secondary School<br><br></td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bukit View Secondary School<br><br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -88,7 +88,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Ahmad Ibrahim Primary School<br><br>Fun in learning Tamil Language: Magic of Medicinal Herbs</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Ahmad Ibrahim Primary School<br><br>Fun in learning Tamil Language: Magic of Medicinal Herbs</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
 <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -101,7 +101,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Dazhong Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Dazhong Primary School<br>
 <br></td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -115,7 +115,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Unity Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Unity Primary School<br>
 <br>Unleashing the Magic of Stories</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -129,7 +129,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Zhangde Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Zhangde Primary School<br>
 <br>Literature is Fun</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -143,7 +143,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Temasek Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Temasek Primary School<br>
 <br>Critical Thinking through Research and Gamification of idioms</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -157,7 +157,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Tampines Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Tampines Primary School<br>
 <br></td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -171,7 +171,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Blangah Rise Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Blangah Rise Primary School<br>
 <br>The Junior Reporters @ Blangah Rise Primary School</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -185,7 +185,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Geylang Methodist Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Geylang Methodist Primary School<br>
 <br>Thematic Exploration in Mother Tongue Fortnight Activities</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -199,7 +199,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">CHIJ Primary (Toa Payoh)<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">CHIJ Primary (Toa Payoh)<br>
 <br>Aces Reader Programme</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -213,7 +213,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Oasis Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Oasis Primary School<br>
 <br></td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -227,7 +227,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Canberra Primary School<br>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Canberra Primary School<br>
 <br>Language Fun with eBook Creation</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
