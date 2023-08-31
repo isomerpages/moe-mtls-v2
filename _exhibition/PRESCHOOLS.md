@@ -7,7 +7,7 @@ description: ""
     .btn1{
     font-size: 16px;
     font-family:Lato,sans-serif;
-    background-color: #d84178;
+    background-color: #9b4490;
     padding: 10px 13px;
     margin: -5px 13px;
     border-radius: 6px;
@@ -34,7 +34,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Kaki Bukit 519<br><br>PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT 519
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Kaki Bukit 519<br><br>PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT 519
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -48,7 +48,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Shore<br><br>PCF SPARKLETOTS PRESCHOOL @ PUNGGOL SHORE</td>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Shore<br><br>PCF SPARKLETOTS PRESCHOOL @ PUNGGOL SHORE</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -61,7 +61,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Coast Blk 676B (DS)<br><br>Outdoor learning: A classroom with no walls
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Coast Blk 676B (DS)<br><br>Outdoor learning: A classroom with no walls
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -75,7 +75,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">NAFA Arts Preschool<br><br></td>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">NAFA Arts Preschool<br><br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -88,7 +88,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">MOE Kindergarten @ Oasis<br><br>Let’s Get WoW! Immersive Experiences to Nurture a Love for Mother Tongue Languages</td>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">MOE Kindergarten @ Oasis<br><br>Let’s Get WoW! Immersive Experiences to Nurture a Love for Mother Tongue Languages</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
 <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -101,7 +101,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">MOE Kindergarten @ Zhenghua<br>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">MOE Kindergarten @ Zhenghua<br>
 <br>Our Culture, Our Voice: Nurturing Appreciation for Local Ethnic Culture</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -115,7 +115,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mosaic Preschool<br>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Mosaic Preschool<br>
 <br>Learning Chinese Language Through Mosaic’s Play-inspired Experiences</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -129,7 +129,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">M.Y World Yishun Fern Grove<br>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">M.Y World Yishun Fern Grove<br>
 <br>Making Chinese Learning Fun through Interactive Storytelling</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -143,7 +143,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">My First Skool t McNair Road<br>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">My First Skool t McNair Road<br>
 <br>Experiencing Mandarin in our daily lives</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
