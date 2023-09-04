@@ -159,7 +159,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">1. The Esplanade Co Ltd<br>
+  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">The Esplanade Co Ltd<br>
 <br>Esplanade – Theatres on the Bay</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
