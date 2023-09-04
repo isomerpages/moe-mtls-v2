@@ -34,7 +34,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Kaki Bukit 519<br><br>PCF SPARKLETOTS PRESCHOOL @ KAKI BUKIT 519
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Kaki Bukit 519<br><br>
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
@@ -48,7 +48,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Shore<br><br>PCF SPARKLETOTS PRESCHOOL @ PUNGGOL SHORE</td>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Shore<br><br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
  <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
@@ -143,7 +143,7 @@ text-decoration:none;
   width: 100%;">
   <tbody><tr>
 <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">My First Skool t McNair Road<br>
+  text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">My First Skool at McNair Road<br>
 <br>Experiencing Mandarin in our daily lives</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
