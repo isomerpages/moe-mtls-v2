@@ -2,6 +2,7 @@ collections:
   opening-and-award-ceremony:
     output: true
     order:
+      - Outstanding Preschool Mother Tongue Language Teacher Award.md
       - INFORMATION ON OPENING AND AWARD CEREMONY.md
       - OPENING CEREMONY VIDEO.md
       - OPMTL AWARD CEREMONY (POST EVENT) – Pictures and Information of
