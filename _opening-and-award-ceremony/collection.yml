@@ -2,6 +2,6 @@ collections:
   opening-and-award-ceremony:
     output: true
     order:
+      - INFORMATION ON OPENING AND AWARD CEREMONY.md
       - Opening ceremony.md
       - Outstanding Preschool Mother Tongue Language Teacher Award.md
-      - INFORMATION ON OPENING AND AWARD CEREMONY.md
