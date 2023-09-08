@@ -2,5 +2,4 @@ collections:
   opening-and-award-ceremony:
     output: true
     order:
-      - INFORMATION ON OPENING AND AWARD CEREMONY.md
       - Opening ceremony.md
