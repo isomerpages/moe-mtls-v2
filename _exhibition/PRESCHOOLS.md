@@ -91,7 +91,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">MOE Kindergarten @ Oasis<br><br>Let’s Get WoW! Immersive Experiences to Nurture a Love for Mother Tongue Languages</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/moekg-oasis-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -105,7 +105,7 @@ text-decoration:none;
 <br>Our Culture, Our Voice: Nurturing Appreciation for Local Ethnic Culture</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/moekg-zhenghu-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -147,7 +147,7 @@ text-decoration:none;
 <br>Experiencing Mandarin in our daily lives</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/myfirstchool-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
