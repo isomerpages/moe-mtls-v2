@@ -38,7 +38,7 @@ text-decoration:none;
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/nlb-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
@@ -80,7 +80,7 @@ text-decoration:none;
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/uptlc-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
@@ -121,7 +121,7 @@ text-decoration:none;
 <br>I’m a Young News Presenter</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/mediacrop-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -135,7 +135,7 @@ text-decoration:none;
 <br>Fostering Multiculturalism: Appreciating Diversity through Stories.</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/nie-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -205,7 +205,7 @@ text-decoration:none;
 <br>Language Blooms in the Wonderland</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="/mllpc-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
