@@ -191,7 +191,7 @@ text-decoration:none;
 <br>Let’s learn and enjoy in the Wonderland of Languages</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="tllpc-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/tllpc-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
