@@ -91,7 +91,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Ahmad Ibrahim Primary School<br><br>Fun in learning Tamil Language: Magic of Medicinal Herbs</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/ahmad-ibrahim-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -231,7 +231,7 @@ text-decoration:none;
 <br>Language Fun with eBook Creation</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/canberra-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
