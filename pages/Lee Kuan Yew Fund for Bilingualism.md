@@ -32,7 +32,9 @@ description: ""
 }
  </style>
  <p><a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br></p>
-<p><img src="/images/Posters/ML-MOE Kindergarten @ Horizon ML V4.jpg">
+<p><img src="/images/Exhibitors/mtl_lkyfb booth panel 1_fa.jpg">
+	</p><p><img src="/images/Exhibitors/mtl_lkyfb booth panel 2_fa.jpg">
 <br><br></p>
+
 <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
