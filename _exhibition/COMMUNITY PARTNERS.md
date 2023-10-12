@@ -93,7 +93,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">SPH Media Student Publications<br><br>Fun Language Learning Through SPH Media Student Publications’</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/sph-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -107,7 +107,7 @@ text-decoration:none;
 <br>Kelas Matematika M3@NeeSoon</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/m3nee-soon-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
