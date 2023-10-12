@@ -32,8 +32,8 @@ description: ""
 }
  </style>
  <p><a href="/exhibition/communitypartners/" style="float:left;" class="backbtn">Back</a><br></p>
-<p><img src="/images/Exhibitors/zb (mid right)_final.jpg"></p>
-<p><img src="/images/Exhibitors/zb (mid right)_final.jpg"></p>
+<p><img src="/images/Exhibitors/bh (left) (950x1500) final (002)-min.jpg"></p>
+<p><img src="/images/Exhibitors/zb (mid left)_final (1)-min.jpg"></p>
 <p><img src="/images/Exhibitors/zb (mid right)_final.jpg">
 <br><br></p>
 
