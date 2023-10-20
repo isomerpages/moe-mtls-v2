@@ -32,9 +32,9 @@ description: ""
 }
  </style>
  <p><a href="/exhibition/communitypartners/" style="float:left;" class="backbtn">Back</a><br></p>
-<p></p><p><img src="/images/Exhibitors/a02_scsl_page_1.jpg">
-<br><br></p>
+<p></p><p><img src="/images/Exhibitors/a02_scsl_page_1.jpg"></p>
 <p><img src="/images/Exhibitors/a02_scsl_page_2.jpg"></p>
+<p><img src="/images/Exhibitors/a02_scsl_page_3.jpg"></p>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
