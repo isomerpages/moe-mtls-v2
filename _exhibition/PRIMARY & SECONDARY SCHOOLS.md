@@ -133,7 +133,7 @@ text-decoration:none;
 <br>Literature is Fun</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="/zhangde-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/zhang-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
