@@ -51,7 +51,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bedok Green Secondary School<br><br>Our Rich Culture</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/bedok-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
@@ -105,7 +105,7 @@ text-decoration:none;
 <br></td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/dazhong-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -119,7 +119,7 @@ text-decoration:none;
 <br>Unleashing the Magic of Stories</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/unity-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -133,7 +133,7 @@ text-decoration:none;
 <br>Literature is Fun</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/zhangde-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -147,7 +147,7 @@ text-decoration:none;
 <br>Critical Thinking through Research and Gamification of idioms</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/temasek-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -175,7 +175,7 @@ text-decoration:none;
 <br>The Junior Reporters @ Blangah Rise Primary School</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="blangah-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -189,7 +189,7 @@ text-decoration:none;
 <br>Thematic Exploration in Mother Tongue Fortnight Activities</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/geylang-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -203,7 +203,7 @@ text-decoration:none;
 <br>Aces Reader Programme</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/chij-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -217,7 +217,7 @@ text-decoration:none;
 <br></td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/oasis-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
