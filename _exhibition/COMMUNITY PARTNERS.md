@@ -52,7 +52,7 @@ text-decoration:none;
             </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/scsl-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
