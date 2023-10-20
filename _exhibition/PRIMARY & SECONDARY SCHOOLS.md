@@ -175,7 +175,7 @@ text-decoration:none;
 <br>The Junior Reporters @ Blangah Rise Primary School</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="blangah-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/blangah-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
