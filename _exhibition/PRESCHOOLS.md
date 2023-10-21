@@ -78,7 +78,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">NAFA Arts Preschool<br><br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/nafa-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
@@ -119,7 +119,7 @@ text-decoration:none;
 <br>Learning Chinese Language Through Mosaic’s Play-inspired Experiences</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/mosaic-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
