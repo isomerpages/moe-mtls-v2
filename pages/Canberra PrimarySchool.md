@@ -32,7 +32,6 @@ description: ""
 }
  </style>
  <p><a href="/exhibition/pri-sec-schools/" style="float:left;" class="backbtn">Back</a><br></p>
-<p><img src="/images/Exhibitors/mtls canberra pri.jpg">
-<br><br></p>
+<p><img src="/images/Exhibitors/Canberrapri/mtls canberra pri booth fa pathed (25aug).jpg"><br></p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
