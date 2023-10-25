@@ -36,7 +36,7 @@ description: ""
 <p><img src="/images/Exhibitors/d01 blangah rise primary_page_1.jpg"><br></p>
 <p><img src="/images/Exhibitors/d01 blangah rise primary_page_2.jpg"><br></p>
 <p><img src="/images/Exhibitors/d01 blangah rise primary_page_3.jpg"><br></p>
-<p><img src="/images/Exhibitors/d01 blangah rise primary_page_4.jpg"><br></p>
+<p><img src="/images/Exhibitors/Blangahrise/d01 blangah rise primary 4.jpg"><br></p>
 
 
 
