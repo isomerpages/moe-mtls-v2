@@ -33,8 +33,11 @@ description: ""
  </style>
  <p><a href="/exhibition/pri-sec-schools/" style="float:left;" class="backbtn">Back</a><br></p>
 <p></p>
+<p><img src="/images/Exhibitors/CHIJ/d03_chij priamry_page_1.jpg"><br></p>
+<p><img src="/images/Exhibitors/CHIJ/d03_chij priamry_page_2.jpg"><br></p>
 <p><img src="/images/Exhibitors/d03_chij priamry_page_3.jpg"><br></p>
 <p><img src="/images/Exhibitors/d03_chij priamry_page_4.jpg"><br></p>
 <p><img src="/images/Exhibitors/d03_chij priamry_page_5.jpg"><br></p>
+<p><img src="/images/Exhibitors/CHIJ/d03_chij priamry_page_6.jpg"><br></p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
