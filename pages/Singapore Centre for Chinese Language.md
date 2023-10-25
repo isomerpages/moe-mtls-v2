@@ -35,6 +35,7 @@ description: ""
 <p></p><p><img src="/images/Exhibitors/a02_scsl_page_1.jpg"></p>
 <p><img src="/images/Exhibitors/a02_scsl_page_2.jpg"></p>
 <p><img src="/images/Exhibitors/a02_scsl_page_3.jpg"></p>
+<p><img src="/images/Exhibitors/SCCL/a02_singapore clan for chinese language-4.jpg"></p>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
