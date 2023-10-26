@@ -1,4 +1,5 @@
 collections:
   exhibition-2:
     output: true
-    order: []
+    order:
+      - COMMUNITY PARTNERS.md
