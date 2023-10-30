@@ -1,0 +1,7 @@
+collections:
+  exhibition-2:
+    output: true
+    order:
+      - PRIMARY & SECONDARY SCHOOLS.md
+      - PRESCHOOLS.md
+      - COMMUNITY PARTNERS.md
