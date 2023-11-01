@@ -2,5 +2,4 @@ collections:
   exhibition-2:
     output: true
     order:
-      - PRESCHOOLS.md
       - COMMUNITY PARTNERS.md
