@@ -29,5 +29,5 @@ variant: markdown
 
 <br>
 <div>
-<p>Sample PDF file. <a href="files/sample.pdf">Download</a> here.</p>
+<p>Sample PDF file. <a href="/files/sample.pdf">Download</a> here.</p>
 </div>
