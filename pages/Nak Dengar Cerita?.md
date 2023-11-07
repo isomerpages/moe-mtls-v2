@@ -2,6 +2,7 @@
 title: Nak Dengar Cerita?
 permalink: /sc-ml-mdm-salha-binte-mohamed-hussain/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -108,3 +109,11 @@ Kebanyakan murid yang mempelajari Bahasa Melayu (BM) di sekolah rendah datang da
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 The profile of our Malay Language (ML) pupils in schools has changed over the years. Many pupils come from English Language dominant backgrounds and consequently struggle to learn Malay. The new ML primary curriculum explores the use of stories to enthuse young children to learn and speak the language. Research has shown that storytelling is an effective approach for bringing joy to learning a language. In this sharing session, the speaker will engage the audience in using various storytelling techniques that will enable young children to develop their Malay vocabulary and use Malay more comfortably.
 </p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Mdm Salha Binte Mohamed Hussain Speaker Slides.</p>
+<br>
+<a target="\_blank" href="/files/mtls 2023 mdm salha.pdf">Download</a> here.
+</div>
