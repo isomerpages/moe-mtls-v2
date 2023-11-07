@@ -2,6 +2,7 @@
 title: Mari Bermain dan Belajar Bersama Ally
 permalink: /iw-ml-mdm-norlin-samat/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -121,3 +122,11 @@ Ayuh, ibu bapa! Sertai Ally dalam salah satu pengembaraannya melalui program ibu
 “Let’s Play and Learn with Ally” is a bilingual programme that aims to build positive MTL learning experiences for young children in a safe and fun environment. It is based on a bilingual board and hardcover book series for pre- and early readers, featuring Ally – a local little girl-cat – as she goes about familiar activities around Singapore.
 
 Come on, parents! Join Ally on one of her adventures in this parent-child programme. Let’s sing some songs, participate in interactive story reading, engage in hands-on activities and learn new words in English and Malay together with our little ones!</p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Mdm Norlin Samat Speaker Slides.</p>
+<br>
+<a target="\_blank" href="/files/mtls 2023 mdm norlin.pdf">Download</a> here.
+</div>
