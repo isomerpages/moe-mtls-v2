@@ -2,6 +2,7 @@
 title: PRESCHOOLS
 permalink: /exhibition/preschools/
 description: ""
+variant: markdown
 ---
 <style>
     .btn1{
@@ -51,7 +52,7 @@ text-decoration:none;
   text-align: left;padding: 8px;background-color:#9b4490;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">PCF Sparkletots Preschool @ Punggol Shore<br><br></td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+ <a href="/pcf-punggol-shore-exhibition" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
     </tr>
 </tbody></table>
