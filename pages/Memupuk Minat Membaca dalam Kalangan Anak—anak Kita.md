@@ -2,6 +2,7 @@
 title: Memupuk Minat Membaca dalam Kalangan Anak—anak Kita
 permalink: /sc-ml-nur-fitri-binte-muhammad-syafran/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -111,3 +112,11 @@ Bengkel ini bertujuan melengkapkan ibu bapa dengan ilmu dan kemahiran untuk memu
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px; font-family: Lato,sans-serif;">
 This workshop aims to equip parents with the knowledge and skills to inculcate a positive attitude towards reading among children. Parents will understand the importance of reading at an early age and learn how to select the right picture books according to their child’s developmental level. Parents will also be introduced to the five early literacy practices that support their children in becoming fluent readers. All parents and educators of children between 0 to 6 years of age are welcome.</p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Ms Nur Fitri Binte Muhammad Syafran Speaker Slides.</p>
+<br>
+<a target="\_blank" href="/files/mtls 2023 ml nlb_2.pdf">Download</a> here.
+</div>
