@@ -2,6 +2,7 @@
 title: COMMUNITY PARTNERS
 permalink: /exhibition/communitypartners/
 description: ""
+variant: markdown
 ---
 <style>
     .btn1{
@@ -121,7 +122,7 @@ text-decoration:none;
 <br>I’m a Young News Presenter</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="/mediacrop-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="/mediacorp-exhibition/" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
@@ -177,7 +178,7 @@ text-decoration:none;
 <br>Neighbours in the Wild</td>
  <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
+<a href="mandai-wildlife-exhibition" class="btn1" style="color:#fff;">LEARN MORE</a>
 </td>
 </tr>
 </tbody></table>
