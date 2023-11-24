@@ -58,19 +58,7 @@ text-decoration:none;
     </tr>
 </tbody></table>
 
-<br>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#d84178;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Malay Language Centre of Singapore (MLCS)<br><br>Learning through Play
-            </td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
-</td>
-    </tr>
-</tbody></table>
+
 
 <br>
 <table style="border-collapse: collapse;
