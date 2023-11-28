@@ -3,6 +3,7 @@ title: Mewujudkan Persekitaran yang Kondusif untuk Memupuk Rasa Cinta terhadap
   Bahasa Melayu
 permalink: /sc-ml-mdm-isadhora-mohamed/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -112,3 +113,10 @@ A well-known media personality in the Malay Community, Isadhora was a Producer-P
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Get your children to fall in love with the Malay Language through music, drama and role-play, all within the comfort of your own home! How do we impart this knowledge in a fun manner? Have them enjoy and appreciate the language through daily activities with the family! If you enjoy playing games with your children, then this session is for you. You will be surprised how simple items can conjure so much interest in the learning of Malay Language at home. Best of all, it helps foster great relationships between parent and child. Come join Isadhora’s session!</p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Mdm Isadhora Mohamed Speaker Slides.</p>
+<p><a target="\_blank" href="/files/mtls 2023 mdm isadhora mohamed.pdf">Download</a> here.</p>
+</div>

@@ -1,7 +1,8 @@
 ---
 title: Mediacorp News
-permalink: /mediacrop-exhibition/
+permalink: /mediacorp-exhibition/
 description: ""
+variant: tiptap
 ---
 <style>
        .btntop {

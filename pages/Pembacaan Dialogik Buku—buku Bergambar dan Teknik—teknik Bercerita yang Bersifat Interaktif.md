@@ -3,6 +3,7 @@ title: Pembacaan Dialogik Buku—buku Bergambar dan Teknik—teknik Bercerita ya
   Bersifat Interaktif
 permalink: /sc-ml-muhammed-shahril-bin-shaik-abdullah/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -117,3 +118,10 @@ Buku-buku bergambar memainkan peranan yang sangat penting dalam perkembangan int
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 	<p style="margin:0px; font-family: Lato,sans-serif;text-align: justify">
 Picture books play a very important role in the intellectual and socio-emotional development of a child. Through picture books, children learn to develop not only literacy skills but also core values such as empathy and an awareness of the social world. These, however, cannot be achieved without involving the adults in facilitating the process. This session will focus on the dialogic approach in using picture books to develop children’s critical visual literacy and language acquisition. Parents will also be able to pick up some of the interactive storytelling techniques which they can then practise with their children at home.</p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Mr Muhammed Shahril Bin Shaik Abdullah Speaker Slides.</p>
+<p><a target="\_blank" href="/files/MTLS_2023_ML_LKYFB.pdf">Download</a> here.</p>
+</div>

@@ -2,6 +2,7 @@
 title: Sesi Bercerita bersama Taman Haiwan Singapura
 permalink: /sc-ml-mr-haniman-boniran/
 description: ""
+variant: markdown
 ---
 <style>
   .video-container {
@@ -116,3 +117,10 @@ Bengkel interaktif ini akan menggunakan kaedah buku tanpa dialog untuk memperlua
 <h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
 <p style="margin:0px;font-family: Lato,sans-serif;text-align: justify">
 Singapore Zoo offers unique animal stories that can be utilised to improve children’s literacy skills. One such story is about a rescued pangolin as told through a wordless book. In this interactive workshop, we will use the wordless book to explore various ways to tell stories so as to enrich vocabulary and promote creativity in young children. We will also share an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers.</p></div>
+
+<div>
+<br>
+<h4 id="C2" style="padding-top:12px;margin:0px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Mr Haniman Boniran Speaker Slides.</p>
+<p><a target="\_blank" href="/files/mtls 2023 mr haniman.pdf">Download</a> here.</p>
+</div>

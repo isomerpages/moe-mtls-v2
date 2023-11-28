@@ -2,6 +2,7 @@
 title: Opening ceremony
 permalink: /opening-ceremony-video/
 description: ""
+variant: markdown
 ---
 <style>
 .btntop {
