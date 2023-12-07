@@ -124,6 +124,6 @@ Story writing enables children to develop their creativity, language ability and
 <div>
 <br>
 <h4 id="C2" style="padding-top:12px;color:#a3c864;font-family:Lato,sans-serif;">Session Materials</h4>  
-<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Ms Nur-El-Hudaa Jaffar Speaker Slides.</p>
+<p style="margin:0px;font-family: Lato,sans-serif; text-align:justify;">Ms Nur-El-Hudaa Jaffar's Speaker Slides.</p>
 <p><a target="\_blank" href="/files/MTLS_2023_Ms_Nur_El_Hudaa.pdf">Download</a> here.</p>
 </div>
