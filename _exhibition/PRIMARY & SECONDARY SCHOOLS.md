@@ -2,6 +2,7 @@
 title: PRIMARY & SECONDARY SCHOOLS
 permalink: /exhibition/pri-sec-schools/
 description: ""
+variant: markdown
 ---
 <style>
     .btn1{
@@ -70,18 +71,6 @@ text-decoration:none;
     </tr>
 </tbody></table>
 
-<br>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Bukit View Secondary School<br><br></td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
-</td>
-    </tr>
-</tbody></table>
 
 <br>
 <table style="border-collapse: collapse;
@@ -152,19 +141,6 @@ text-decoration:none;
 </tr>
 </tbody></table>
 
-<br>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  <tbody><tr>
-<td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Tampines Primary School<br>
-<br></td>
- <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
-<a href="" class="btn1" style="color:#fff;">LEARN MORE</a>
-</td>
-</tr>
-</tbody></table>
 
 <br>
 <table style="border-collapse: collapse;
