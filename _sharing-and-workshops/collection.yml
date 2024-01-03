@@ -1,0 +1,15 @@
+collections:
+  sharing-and-workshops:
+    output: true
+    order:
+      - INTRODUCTION.md
+      - SHARING SESSIONS/.keep
+      - SHARING SESSIONS/华文.md
+      - SHARING SESSIONS/Bahasa Melayu.md
+      - SHARING SESSIONS/தமிழ்.md
+      - SHARING SESSIONS/English.md
+      - INTERACTIVE WORKSHOPS/.keep
+      - INTERACTIVE WORKSHOPS/华文.md
+      - INTERACTIVE WORKSHOPS/Bahasa Melayu.md
+      - INTERACTIVE WORKSHOPS/தமிழ்.md
+      - INTERACTIVE WORKSHOPS/English.md

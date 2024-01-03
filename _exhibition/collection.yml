@@ -1,0 +1,8 @@
+collections:
+  exhibition:
+    output: true
+    order:
+      - EXHIBITION BOOTHS AND CENTREPIECE.md
+      - PRESCHOOLS.md
+      - PRIMARY & SECONDARY SCHOOLS.md
+      - COMMUNITY PARTNERS.md
